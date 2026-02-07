@@ -1,0 +1,15 @@
+Thinking of something even simpler to start.  Approach it in stages.
+
+1.  data gathering stage
+
+At this stage, we create a website using no special technology.  There will be a simple list of events.  Click an event to get a page dedicated to it with all the photos we can find about the musicians, the club from the street and inside, the street, and anything else that helps imagine what the event was like.  List of songs that might have been played, linked to recordings made that night if possible, otherwise the same song played by some of the same people at around that time.  Extracts from books or websites from people who were there.  This is the raw data for the app, and it already has value.  From some points of view, it doesn't need an app.
+
+2.  map UI
+
+Add a map to the simple list of events.  Select an event to highlight its location on the map.  We are not restricted to a single night any more, so there should be a datetime controller.  
+
+3.  animated tour
+
+Start with the earliest event.  The user clicks a start button.  The page avigates to each event in time order, plays the 30-second music samples, and moves on to the next one. A Ken Burns - style documentary.
+
+Given all this, sit back and think about what we can get with the fancy new technology from this base.  We want to make you feel that you are there, not just watching a static presentation.  You have freedom of movement.  But, it should not get in the way of being put in direct contact with the music and the images.  Our low-tech presentation doesn't waste time getting from one to the next.  Our high-tech version should not get in the way.

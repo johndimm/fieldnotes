@@ -1,0 +1,33 @@
+We are building a personal research and curation app called Fieldnotes.
+
+Purpose:
+Fieldnotes is for gathering, annotating, and connecting historical and cultural evidence.
+It is not a wiki, not a feed, and not a social network.
+It is a private working notebook for serious curiosity.
+
+Core metaphor:
+A field of people, places, and events that briefly intersect.
+Events matter because they bring entities together at a specific time and place.
+
+Initial scope:
+Stage 1 focuses on Soho, London, mid-1960s.
+We start with music clubs and gigs (e.g. the Marquee, Polytechnic shows).
+Information will be incomplete, contradictory, and source-dependent.
+
+Principles:
+- Evidence-first: every factual claim should be traceable to a source.
+- Ambiguity is allowed and should be preserved, not prematurely resolved.
+- Events are central; people and venues orbit events.
+- YouTube is a first-class source for music and performance.
+- The system should support gradual refinement over time.
+
+Tech constraints:
+- Next.js (default setup)
+- SQLite for now
+- Simple, explicit data models over clever abstractions
+
+What we want first:
+Help define an event-centric data model suitable for messy early-stage research,
+and guide the creation of the first few historical events without overfitting.
+
+Assume this project will grow slowly and be thought with, not optimized yet.
