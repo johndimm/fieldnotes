@@ -100,6 +100,8 @@ export const orsonWellesCitizenKaneLocations: EnhancedLocation[] = [
         lng: -87.8212,
         date: '1915-1926',
         description: 'Orson Welles was born to a wealthy inventor father and a concert pianist mother. By age 10, he had been declared a genius. His mother died when he was 9, his father when he was 15. He was essentially raised by guardians.',
+        photoUrl: '/welles/citizen_kane_poster.png',
+        photoTitle: 'Citizen Kane - The film that changed cinema',
         content: [
             {
                 id: 'kenosha-quote-1',
@@ -116,6 +118,21 @@ export const orsonWellesCitizenKaneLocations: EnhancedLocation[] = [
                 text: 'Everybody told me from the moment I could hear that I was absolutely marvelous.',
                 speaker: 'Orson Welles',
                 source: 'Interview'
+            },
+            {
+                id: 'kenosha-quote-3',
+                type: 'quote',
+                locationId: 'kenosha',
+                text: 'His mother called him her little genius. She died when he was nine. He spent the rest of his life trying to live up to her.',
+                speaker: 'Peter Bogdanovich',
+                source: 'This Is Orson Welles'
+            },
+            {
+                id: 'kenosha-music-1',
+                type: 'music',
+                locationId: 'kenosha',
+                musicTitle: 'Prelude (From "Citizen Kane" 1941)',
+                musicPreviewUrl: '/api/music/deezer/track/95560474'
             }
         ]
     },
@@ -126,6 +143,8 @@ export const orsonWellesCitizenKaneLocations: EnhancedLocation[] = [
         lng: -6.2639,
         date: '1931',
         description: 'At 16, Welles arrived in Dublin claiming to be a star of the New York Theatre Guild. The Gate Theatre hired him. He was electrifying. The lie launched his career - deception and brilliance inseparable from the start.',
+        photoUrl: '/welles/gate_theatre_dublin.jpg',
+        photoTitle: 'Gate Theatre, Dublin - Where the boy genius began',
         content: [
             {
                 id: 'gate-quote-1',
@@ -142,6 +161,14 @@ export const orsonWellesCitizenKaneLocations: EnhancedLocation[] = [
                 text: 'He was sixteen and looked thirty. He had this voice that seemed to come from the depths of the earth.',
                 speaker: 'Micheál Mac Liammóir',
                 source: 'Gate Theatre director'
+            },
+            {
+                id: 'gate-quote-3',
+                type: 'quote',
+                locationId: 'gate-theatre',
+                text: 'The audacity of genius is to assume you belong in places you haven\'t earned the right to be.',
+                speaker: 'Orson Welles',
+                source: 'On lying his way into theatre'
             }
         ]
     },
@@ -152,6 +179,8 @@ export const orsonWellesCitizenKaneLocations: EnhancedLocation[] = [
         lng: -73.9855,
         date: '1937-1939',
         description: 'Welles and John Houseman founded the Mercury Theatre on 41st Street. Their modern-dress Julius Caesar made Welles a star. The company would follow him to Hollywood and form the core of Citizen Kane\'s cast.',
+        photoUrl: '/welles/mercury_theatre.jpg',
+        photoTitle: 'Mercury Theatre - Welles\' creative laboratory',
         content: [
             {
                 id: 'mercury-quote-1',
@@ -176,6 +205,21 @@ export const orsonWellesCitizenKaneLocations: EnhancedLocation[] = [
                 text: 'I have always been more interested in experiment than in accomplishment.',
                 speaker: 'Orson Welles',
                 source: 'Interview'
+            },
+            {
+                id: 'mercury-quote-4',
+                type: 'quote',
+                locationId: 'mercury',
+                text: 'He set Julius Caesar in fascist Italy. The critics called it genius. He was 22 years old.',
+                speaker: 'John Houseman',
+                source: 'Run-Through'
+            },
+            {
+                id: 'mercury-music-1',
+                type: 'music',
+                locationId: 'mercury',
+                musicTitle: 'Rachmaninoff: The Isle of the Dead, Op. 29',
+                musicPreviewUrl: '/api/music/deezer/track/118932304'
             }
         ]
     },
@@ -186,6 +230,8 @@ export const orsonWellesCitizenKaneLocations: EnhancedLocation[] = [
         lng: -73.9776,
         date: 'October 30, 1938',
         description: 'The night that changed everything. Mercury Theatre on the Air broadcast a radio adaptation of War of the Worlds. Millions of Americans believed Martians had landed. Welles became the most famous man in America overnight.',
+        photoUrl: '/welles/cbs_radio.jpg',
+        photoTitle: 'CBS Radio - The War of the Worlds broadcast',
         content: [
             {
                 id: 'cbs-quote-1',
@@ -210,6 +256,22 @@ export const orsonWellesCitizenKaneLocations: EnhancedLocation[] = [
                 text: 'People ran into the streets in panic. It was a national hysteria.',
                 speaker: 'Newspaper report',
                 source: 'October 31, 1938'
+            },
+            {
+                id: 'cbs-quote-4',
+                type: 'quote',
+                locationId: 'cbs',
+                text: 'The power of radio was never more terrifyingly demonstrated. He had scared a nation.',
+                speaker: 'Dorothy Thompson',
+                source: 'New York Tribune'
+            },
+            {
+                id: 'cbs-quote-5',
+                type: 'quote',
+                locationId: 'cbs',
+                text: 'At 23, I was the most talked-about man in America. RKO called the next day.',
+                speaker: 'Orson Welles',
+                source: 'Interview'
             }
         ]
     },
@@ -220,6 +282,8 @@ export const orsonWellesCitizenKaneLocations: EnhancedLocation[] = [
         lng: -118.3200,
         date: 'July 1939',
         description: 'RKO gave 24-year-old Welles the most extraordinary contract in Hollywood history: final cut on two films, complete creative control, no studio interference. The industry was outraged. No one had ever been given such power.',
+        photoUrl: '/welles/citizen_kane_filming.jpg',
+        photoTitle: 'Filming Citizen Kane at RKO Studios',
         content: [
             {
                 id: 'rko-quote-1',
@@ -244,6 +308,29 @@ export const orsonWellesCitizenKaneLocations: EnhancedLocation[] = [
                 text: 'I want to work with the man who filmed Wuthering Heights.',
                 speaker: 'Orson Welles',
                 source: 'Requesting Gregg Toland'
+            },
+            {
+                id: 'rko-quote-4',
+                type: 'quote',
+                locationId: 'rko',
+                text: 'No other studio would have made such a deal. They called it suicide.',
+                speaker: 'George Schaefer',
+                source: 'RKO President'
+            },
+            {
+                id: 'rko-quote-5',
+                type: 'quote',
+                locationId: 'rko',
+                text: 'Hollywood hated him before he even arrived. The boy wonder with final cut.',
+                speaker: 'Joseph Cotten',
+                source: 'Actor, Mercury Theatre'
+            },
+            {
+                id: 'rko-music-1',
+                type: 'music',
+                locationId: 'rko',
+                musicTitle: 'Xanadu Music (From Citizen Kane)',
+                musicPreviewUrl: '/api/music/deezer/track/123799328'
             }
         ]
     },
@@ -254,6 +341,8 @@ export const orsonWellesCitizenKaneLocations: EnhancedLocation[] = [
         lng: -117.2928,
         date: 'January-February 1940',
         description: 'Herman Mankiewicz, a brilliant alcoholic screenwriter, was installed at this remote ranch to dry out while writing the screenplay. He had worked for Hearst and knew all the secrets. The bitter first draft was called "American."',
+        photoUrl: '/welles/citizen_kane_filming.jpg',
+        photoTitle: 'The screenplay that would destroy Welles',
         content: [
             {
                 id: 'victorville-quote-1',
@@ -278,6 +367,22 @@ export const orsonWellesCitizenKaneLocations: EnhancedLocation[] = [
                 text: 'It\'s not based on Hearst. It\'s based on several people.',
                 speaker: 'Orson Welles',
                 source: 'Press interview (unconvincingly)'
+            },
+            {
+                id: 'victorville-quote-4',
+                type: 'quote',
+                locationId: 'victorville',
+                text: 'Mank dictated the script with a broken leg. He couldn\'t run from his demons anymore.',
+                speaker: 'Sara Mankiewicz',
+                source: 'On her husband\'s condition'
+            },
+            {
+                id: 'victorville-quote-5',
+                type: 'quote',
+                locationId: 'victorville',
+                text: 'The screenplay is the most important part of filmmaking. Orson knew that.',
+                speaker: 'Herman J. Mankiewicz',
+                source: 'Interview'
             }
         ]
     },
@@ -288,6 +393,8 @@ export const orsonWellesCitizenKaneLocations: EnhancedLocation[] = [
         lng: -118.3195,
         date: 'June-October 1940',
         description: 'On this soundstage, Welles and Toland invented modern cinema. Deep focus photography, ceilinged sets, extreme camera angles - techniques that would influence every film that followed. Welles was 25 years old.',
+        photoUrl: '/welles/citizen_kane_filming.jpg',
+        photoTitle: 'Filming the greatest movie ever made',
         content: [
             {
                 id: 'rko-stages-quote-1',
@@ -322,10 +429,49 @@ export const orsonWellesCitizenKaneLocations: EnhancedLocation[] = [
                 source: 'Interview'
             },
             {
+                id: 'rko-stages-quote-5',
+                type: 'quote',
+                locationId: 'rko-stages',
+                text: 'He demanded 12 weeks to compose the score. Most films got two. I gave him what he wanted.',
+                speaker: 'Orson Welles',
+                source: 'On Bernard Herrmann'
+            },
+            {
+                id: 'rko-stages-quote-6',
+                type: 'quote',
+                locationId: 'rko-stages',
+                text: 'The score is 50 percent of the success of the film.',
+                speaker: 'Orson Welles',
+                source: 'On Herrmann\'s music'
+            },
+            {
+                id: 'rko-stages-quote-7',
+                type: 'quote',
+                locationId: 'rko-stages',
+                text: 'Deep focus meant everything in the shot was important. The audience could choose what to look at.',
+                speaker: 'Gregg Toland',
+                source: 'On revolutionary cinematography'
+            },
+            {
+                id: 'rko-stages-quote-8',
+                type: 'quote',
+                locationId: 'rko-stages',
+                text: 'He dug holes in the floor for low angles. He built ceilings on every set. He was insane with genius.',
+                speaker: 'Robert Wise',
+                source: 'Film editor'
+            },
+            {
                 id: 'rko-stages-attendee-1',
                 type: 'attendee',
                 locationId: 'rko-stages',
-                text: 'Gregg Toland, Joseph Cotten, Agnes Moorehead, Everett Sloane, Bernard Herrmann'
+                text: 'Gregg Toland, Joseph Cotten, Agnes Moorehead, Everett Sloane, Bernard Herrmann, Dorothy Comingore, Ray Collins'
+            },
+            {
+                id: 'rko-stages-music-1',
+                type: 'music',
+                locationId: 'rko-stages',
+                musicTitle: 'Prelude (From "Citizen Kane" 1941)',
+                musicPreviewUrl: '/api/music/deezer/track/95560474'
             }
         ]
     },
@@ -336,6 +482,8 @@ export const orsonWellesCitizenKaneLocations: EnhancedLocation[] = [
         lng: -121.1682,
         date: '1919-1947',
         description: 'William Randolph Hearst\'s castle was the model for Xanadu. When Hearst learned about the film, he declared war. His newspapers banned all RKO advertising. Studios refused to show it. Hearst tried to buy and destroy the negative.',
+        photoUrl: '/welles/hearst_castle.jpg',
+        photoTitle: 'San Simeon - The real Xanadu',
         content: [
             {
                 id: 'hearst-quote-1',
@@ -360,6 +508,45 @@ export const orsonWellesCitizenKaneLocations: EnhancedLocation[] = [
                 text: 'Rosebud was his pet name for Marion Davies\' most intimate part.',
                 speaker: 'Gore Vidal',
                 source: 'On why Hearst was really furious'
+            },
+            {
+                id: 'hearst-quote-4',
+                type: 'quote',
+                locationId: 'hearst-castle',
+                text: 'Hearst offered to buy the film for $800,000 to burn it. RKO refused.',
+                speaker: 'George Schaefer',
+                source: 'RKO President'
+            },
+            {
+                id: 'hearst-quote-5',
+                type: 'quote',
+                locationId: 'hearst-castle',
+                text: 'Every Hearst newspaper in America was forbidden to mention the film. It was total war.',
+                speaker: 'Louella Parsons',
+                source: 'Hearst gossip columnist'
+            },
+            {
+                id: 'hearst-quote-6',
+                type: 'quote',
+                locationId: 'hearst-castle',
+                text: 'Louis B. Mayer offered RKO $850,000 to destroy the negative. The other studios were terrified.',
+                speaker: 'Herman J. Mankiewicz',
+                source: 'On Hollywood\'s fear of Hearst'
+            },
+            {
+                id: 'hearst-quote-7',
+                type: 'quote',
+                locationId: 'hearst-castle',
+                text: 'If Hearst wants to destroy me, let him try. I made the greatest film ever made.',
+                speaker: 'Orson Welles',
+                source: 'Defiant statement, 1941'
+            },
+            {
+                id: 'hearst-music-1',
+                type: 'music',
+                locationId: 'hearst-castle',
+                musicTitle: 'Xanadu Music (From Citizen Kane)',
+                musicPreviewUrl: '/api/music/deezer/track/123799328'
             }
         ]
     },

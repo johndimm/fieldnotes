@@ -86,6 +86,8 @@ export const beatlesHamburgLocations: EnhancedLocation[] = [
         lng: -2.9916,
         date: 'Pre-1960',
         description: 'The Beatles formed in Liverpool from the remnants of John Lennon\'s skiffle group The Quarrymen. By 1960, they were a five-piece: John, Paul, George, Stuart Sutcliffe on bass, and Pete Best on drums.',
+        photoUrl: '/beatles/liverpool_cavern.jpg',
+        photoTitle: 'The Cavern Club, Liverpool',
         content: [
             {
                 id: 'liverpool-quote-1',
@@ -102,6 +104,13 @@ export const beatlesHamburgLocations: EnhancedLocation[] = [
                 text: 'Before Hamburg we were crap. We didn\'t have a clue.',
                 speaker: 'John Lennon',
                 source: 'Interview'
+            },
+            {
+                id: 'liverpool-music-1',
+                type: 'music',
+                locationId: 'liverpool',
+                musicTitle: 'My Bonnie',
+                musicPreviewUrl: '/api/music/deezer/track/3668065912'
             }
         ]
     },
@@ -112,6 +121,8 @@ export const beatlesHamburgLocations: EnhancedLocation[] = [
         lng: 9.9666,
         date: 'August 17 - October 3, 1960',
         description: 'A seedy strip club on Große Freiheit where The Beatles played their first Hamburg engagement. They played 4-6 hours a night, learning to perform and hold an audience.',
+        photoUrl: '/beatles/hamburg_reeperbahn.jpg',
+        photoTitle: 'The Reeperbahn, Hamburg',
         content: [
             {
                 id: 'indra-quote-1',
@@ -136,6 +147,13 @@ export const beatlesHamburgLocations: EnhancedLocation[] = [
                 text: 'In Liverpool, we just used to do our best numbers - the same ones at every gig. In Hamburg we had to play for eight hours, so we had to learn new material.',
                 speaker: 'Paul McCartney',
                 source: 'Anthology'
+            },
+            {
+                id: 'indra-music-1',
+                type: 'music',
+                locationId: 'indra',
+                musicTitle: 'Long Tall Sally',
+                musicPreviewUrl: '/api/music/deezer/track/116348832'
             }
         ]
     },
@@ -146,6 +164,8 @@ export const beatlesHamburgLocations: EnhancedLocation[] = [
         lng: 9.9668,
         date: 'October - November 1960',
         description: 'After the Indra closed due to noise complaints, The Beatles moved to the larger Kaiserkeller. Here they met Rory Storm and the Hurricanes - including their drummer, Ringo Starr.',
+        photoUrl: '/beatles/hamburg_reeperbahn.jpg',
+        photoTitle: 'Hamburg Reeperbahn district',
         content: [
             {
                 id: 'kaiserkeller-quote-1',
@@ -176,6 +196,13 @@ export const beatlesHamburgLocations: EnhancedLocation[] = [
                 type: 'attendee',
                 locationId: 'kaiserkeller',
                 text: 'Ringo Starr, Rory Storm, Astrid Kirchherr, Klaus Voormann'
+            },
+            {
+                id: 'kaiserkeller-music-1',
+                type: 'music',
+                locationId: 'kaiserkeller',
+                musicTitle: 'Roll Over Beethoven',
+                musicPreviewUrl: '/api/music/deezer/track/116348710'
             }
         ]
     },
@@ -186,6 +213,8 @@ export const beatlesHamburgLocations: EnhancedLocation[] = [
         lng: 9.9660,
         date: '1960',
         description: 'The Beatles lived in squalid conditions behind the screen of this cinema. No windows, filthy conditions, but cheap. When they were evicted, Paul and Pete allegedly set fire to a condom on the wall - leading to their deportation.',
+        photoUrl: '/beatles/hamburg_reeperbahn.jpg',
+        photoTitle: 'Hamburg Reeperbahn district',
         content: [
             {
                 id: 'bambi-quote-1',
@@ -202,6 +231,13 @@ export const beatlesHamburgLocations: EnhancedLocation[] = [
                 text: 'It was a bit of a hovel. But we were young and we didn\'t care.',
                 speaker: 'Paul McCartney',
                 source: 'Anthology'
+            },
+            {
+                id: 'bambi-music-1',
+                type: 'music',
+                locationId: 'bambi',
+                musicTitle: 'I Saw Her Standing There',
+                musicPreviewUrl: '/api/music/deezer/track/116348314'
             }
         ]
     },
@@ -212,6 +248,8 @@ export const beatlesHamburgLocations: EnhancedLocation[] = [
         lng: 9.9670,
         date: 'April - July 1961',
         description: 'The Beatles returned to Hamburg in 1961 for a legendary 92-night residency at the Top Ten Club. Here they truly transformed, playing 7-8 hours every night.',
+        photoUrl: '/beatles/star_club_hamburg.jpg',
+        photoTitle: 'Hamburg Star-Club area',
         content: [
             {
                 id: 'top-ten-quote-1',

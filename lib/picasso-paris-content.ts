@@ -100,6 +100,8 @@ export const picassoParisLocations: EnhancedLocation[] = [
         lng: -4.4214,
         date: '1881-1891',
         description: 'Picasso\'s birthplace on the Plaza de la Merced. His father José was a painter and art teacher who recognized his son\'s extraordinary talent early. According to legend, Pablo\'s first word was "piz" - short for lápiz (pencil).',
+        photoUrl: '/picasso/malaga_birthplace.jpg',
+        photoTitle: 'Picasso\'s birthplace, Málaga',
         content: [
             {
                 id: 'malaga-quote-1',
@@ -116,6 +118,14 @@ export const picassoParisLocations: EnhancedLocation[] = [
                 text: 'I could draw like Raphael at 12. It took me a lifetime to draw like a child.',
                 speaker: 'Pablo Picasso',
                 source: 'Interview'
+            },
+            {
+                id: 'malaga-quote-3',
+                type: 'quote',
+                locationId: 'malaga',
+                text: 'Every child is an artist. The problem is how to remain an artist once we grow up.',
+                speaker: 'Pablo Picasso',
+                source: 'Interview'
             }
         ]
     },
@@ -126,6 +136,8 @@ export const picassoParisLocations: EnhancedLocation[] = [
         lng: 2.1734,
         date: '1897-1900',
         description: 'The bohemian café on Carrer Montsió where young artists and intellectuals gathered. Picasso had his first exhibition here in 1900. He met Carles Casagemas, whose suicide would haunt him for years.',
+        photoUrl: '/picasso/quatre_gats_barcelona.jpg',
+        photoTitle: 'Els Quatre Gats café, Barcelona',
         content: [
             {
                 id: 'barcelona-quote-1',
@@ -144,6 +156,14 @@ export const picassoParisLocations: EnhancedLocation[] = [
                 source: 'Friend and later secretary'
             },
             {
+                id: 'barcelona-quote-3',
+                type: 'quote',
+                locationId: 'barcelona',
+                text: 'Art is the elimination of the unnecessary.',
+                speaker: 'Pablo Picasso',
+                source: 'Early writings'
+            },
+            {
                 id: 'barcelona-attendee-1',
                 type: 'attendee',
                 locationId: 'barcelona',
@@ -158,6 +178,8 @@ export const picassoParisLocations: EnhancedLocation[] = [
         lng: 2.3266,
         date: 'October 1900',
         description: 'Picasso arrived in Paris by train with Casagemas for the Universal Exhibition. Neither spoke French. They had almost no money. But Paris was the center of the art world, and Picasso was determined to conquer it.',
+        photoUrl: '/picasso/gare_orsay_paris.jpg',
+        photoTitle: 'Gare d\'Orsay, Paris 1900',
         content: [
             {
                 id: 'paris-quote-1',
@@ -174,6 +196,13 @@ export const picassoParisLocations: EnhancedLocation[] = [
                 text: 'Paris was the only place to be. Nowhere else mattered.',
                 speaker: 'Pablo Picasso',
                 source: 'Memoir'
+            },
+            {
+                id: 'paris-music-1',
+                type: 'music',
+                locationId: 'paris-arrival',
+                musicTitle: 'Debussy: Clair de Lune',
+                musicPreviewUrl: '/api/music/deezer/track/531233261'
             }
         ]
     },
@@ -184,6 +213,8 @@ export const picassoParisLocations: EnhancedLocation[] = [
         lng: 2.3386,
         date: 'February 17, 1901',
         description: 'In this café, Carles Casagemas shot himself over unrequited love for a model named Germaine. Picasso was in Spain and didn\'t learn of it for days. The trauma launched the Blue Period - paintings suffused with grief, isolation, and mortality.',
+        photoUrl: '/picasso/montmartre_1900.jpg',
+        photoTitle: 'Montmartre, Paris 1900',
         content: [
             {
                 id: 'montmartre-quote-1',
@@ -208,6 +239,21 @@ export const picassoParisLocations: EnhancedLocation[] = [
                 text: 'I started painting in blue when I learned of Casagemas\'s death.',
                 speaker: 'Pablo Picasso',
                 source: 'To Pierre Daix'
+            },
+            {
+                id: 'montmartre-quote-4',
+                type: 'quote',
+                locationId: 'montmartre',
+                text: 'The world doesn\'t make sense, so why should I paint pictures that do?',
+                speaker: 'Pablo Picasso',
+                source: 'Blue Period'
+            },
+            {
+                id: 'montmartre-music-1',
+                type: 'music',
+                locationId: 'montmartre',
+                musicTitle: 'Erik Satie: Gymnopédie No. 1',
+                musicPreviewUrl: '/api/music/deezer/track/1086622472'
             }
         ]
     },
@@ -218,6 +264,8 @@ export const picassoParisLocations: EnhancedLocation[] = [
         lng: 2.3470,
         date: 'June 1901',
         description: 'Ambroise Vollard, the legendary dealer who championed Cézanne, gave 19-year-old Picasso his first Paris show. Critics were impressed but puzzled by his chameleonic style. 64 paintings sold well - but the money vanished quickly.',
+        photoUrl: '/picasso/galerie_vollard.jpg',
+        photoTitle: 'Galerie Vollard, Paris',
         content: [
             {
                 id: 'vollard-quote-1',
@@ -234,6 +282,21 @@ export const picassoParisLocations: EnhancedLocation[] = [
                 text: 'The exhibition was a success. But the money was gone in a week.',
                 speaker: 'Pablo Picasso',
                 source: 'Memoir'
+            },
+            {
+                id: 'vollard-quote-3',
+                type: 'quote',
+                locationId: 'vollard',
+                text: 'There is no abstract art. You must always start with something. Afterward you can remove all traces of reality.',
+                speaker: 'Pablo Picasso',
+                source: 'Interview'
+            },
+            {
+                id: 'vollard-music-1',
+                type: 'music',
+                locationId: 'vollard',
+                musicTitle: 'Erik Satie: Je te veux (Waltz)',
+                musicPreviewUrl: '/api/music/deezer/track/136920724'
             }
         ]
     },
@@ -243,7 +306,9 @@ export const picassoParisLocations: EnhancedLocation[] = [
         lat: 48.8839,
         lng: 2.3328,
         date: '1901-1902',
-        description: 'Picasso shared a small room with Max Jacob at 130 Boulevard de Clichy. They had one bed - Jacob slept at night while working days, Picasso painted at night and slept days. Here the Blue Period masterpieces were born.',
+        description: 'Picasso shared a tiny, freezing room with poet Max Jacob at 130 Boulevard de Clichy. They owned one bed between them - Jacob worked days and slept nights, Picasso painted nights and slept days. Sometimes they went hungry for days. Here, in candlelit darkness and crushing poverty, Picasso painted beggars, the blind, and the destitute in haunting shades of blue. The paintings nobody wanted would revolutionize art.',
+        photoUrl: '/picasso/montmartre_1900.jpg',
+        photoTitle: 'Boulevard de Clichy, Montmartre',
         content: [
             {
                 id: 'studio-quote-1',
@@ -268,6 +333,37 @@ export const picassoParisLocations: EnhancedLocation[] = [
                 text: 'I paint what I feel, not what I see.',
                 speaker: 'Pablo Picasso',
                 source: 'On the Blue Period'
+            },
+            {
+                id: 'studio-quote-4',
+                type: 'quote',
+                locationId: 'studio',
+                text: 'We ate when we could. Some nights we burned drawings just to survive the cold. But Pablo never stopped painting.',
+                speaker: 'Max Jacob',
+                source: 'Memoir'
+            },
+            {
+                id: 'studio-quote-5',
+                type: 'quote',
+                locationId: 'studio',
+                text: 'Colors, like features, follow the changes of the emotions.',
+                speaker: 'Pablo Picasso',
+                source: 'On the Blue Period'
+            },
+            {
+                id: 'studio-quote-6',
+                type: 'quote',
+                locationId: 'studio',
+                text: 'Pablo was obsessed. He painted prostitutes, beggars, blind musicians - all the outcasts of Paris. All in blue, the color of melancholy.',
+                speaker: 'Max Jacob',
+                source: 'Memoir'
+            },
+            {
+                id: 'studio-music-1',
+                type: 'music',
+                locationId: 'studio',
+                musicTitle: 'Debussy: Arabesque No. 1',
+                musicPreviewUrl: '/api/music/deezer/track/111856994'
             }
         ]
     },
@@ -277,7 +373,9 @@ export const picassoParisLocations: EnhancedLocation[] = [
         lat: 48.8859,
         lng: 2.3394,
         date: '1904-1909',
-        description: 'The ramshackle building at 13 Place Émile-Goudeau became legend. No heat, no gas, one water tap for thirty studios. But here Picasso met Fernande, ended the Blue Period, and painted Les Demoiselles d\'Avignon - the work that invented Cubism.',
+        description: 'The ramshackle building at 13 Place Émile-Goudeau became legend. No heat, no gas, one water tap for thirty studios. Rats scurried through holes in the walls. But here Picasso met Fernande, ended the Blue Period, and painted Les Demoiselles d\'Avignon - the work that shattered perspective and invented Cubism. This was the crucible where modern art was born.',
+        photoUrl: '/picasso/bateau_lavoir.jpg',
+        photoTitle: 'Bateau-Lavoir, Montmartre',
         content: [
             {
                 id: 'bateau-quote-1',
@@ -312,10 +410,49 @@ export const picassoParisLocations: EnhancedLocation[] = [
                 source: 'On Les Demoiselles d\'Avignon'
             },
             {
+                id: 'bateau-quote-5',
+                type: 'quote',
+                locationId: 'bateau-lavoir',
+                text: 'He and Max lived like vagabonds. I\'d visit and they\'d have nothing - no food, no coal, just cigarettes and poetry.',
+                speaker: 'Guillaume Apollinaire',
+                source: 'Memoir'
+            },
+            {
+                id: 'bateau-quote-6',
+                type: 'quote',
+                locationId: 'bateau-lavoir',
+                text: 'When you paint, you can paint from a model. But for sculpture you need a model. So you must have the absolute truth.',
+                speaker: 'Pablo Picasso',
+                source: 'To Apollinaire'
+            },
+            {
+                id: 'bateau-quote-7',
+                type: 'quote',
+                locationId: 'bateau-lavoir',
+                text: 'Pablo didn\'t just break the rules of art. He rewrote them entirely.',
+                speaker: 'Guillaume Apollinaire',
+                source: 'Art critic'
+            },
+            {
+                id: 'bateau-quote-8',
+                type: 'quote',
+                locationId: 'bateau-lavoir',
+                text: 'Art is a lie that makes us realize truth.',
+                speaker: 'Pablo Picasso',
+                source: 'Interview'
+            },
+            {
                 id: 'bateau-attendee-1',
                 type: 'attendee',
                 locationId: 'bateau-lavoir',
                 text: 'Fernande Olivier, Max Jacob, Juan Gris, Amedeo Modigliani, Guillaume Apollinaire'
+            },
+            {
+                id: 'bateau-music-1',
+                type: 'music',
+                locationId: 'bateau-lavoir',
+                musicTitle: 'Ravel: Pavane pour une infante défunte',
+                musicPreviewUrl: '/api/music/deezer/track/2373789155'
             }
         ]
     },
@@ -325,7 +462,9 @@ export const picassoParisLocations: EnhancedLocation[] = [
         lat: 48.8870,
         lng: 2.3401,
         date: '1904-1909',
-        description: 'The famous cabaret at 22 Rue des Saules where Picasso and his circle gathered. He paid for meals with paintings - one now hangs in the Metropolitan Museum. Here he met Apollinaire, who would become Cubism\'s champion.',
+        description: 'The legendary cabaret at 22 Rue des Saules where Picasso and his bohemian circle gathered nightly. Candlelit tables, cheap wine, cigarette smoke thick as fog. Owner Frédé Gérard kept a donkey in the back and sang for the artists. Picasso paid for meals with paintings - one, "At the Lapin Agile," now hangs in the Metropolitan Museum worth millions. Here he met Guillaume Apollinaire, the brilliant poet who would champion Cubism and become his closest friend.',
+        photoUrl: '/picasso/lapin_agile.jpg',
+        photoTitle: 'Le Lapin Agile cabaret, Montmartre',
         content: [
             {
                 id: 'lapin-quote-1',
@@ -344,20 +483,61 @@ export const picassoParisLocations: EnhancedLocation[] = [
                 source: 'Memoir'
             },
             {
+                id: 'lapin-quote-3',
+                type: 'quote',
+                locationId: 'lapin',
+                text: 'The chief enemy of creativity is good sense.',
+                speaker: 'Pablo Picasso',
+                source: 'Late night at Le Lapin Agile'
+            },
+            {
+                id: 'lapin-quote-4',
+                type: 'quote',
+                locationId: 'lapin',
+                text: 'Pablo would argue about anything - art, politics, love. He was electric. You couldn\'t look away.',
+                speaker: 'André Salmon',
+                source: 'Poet and art critic'
+            },
+            {
+                id: 'lapin-quote-5',
+                type: 'quote',
+                locationId: 'lapin',
+                text: 'Action is the foundational key to all success.',
+                speaker: 'Pablo Picasso',
+                source: 'To friends at Le Lapin Agile'
+            },
+            {
                 id: 'lapin-attendee-1',
                 type: 'attendee',
                 locationId: 'lapin',
                 text: 'Guillaume Apollinaire, Max Jacob, André Salmon, Modigliani, Maurice Utrillo'
+            },
+            {
+                id: 'lapin-music-1',
+                type: 'music',
+                locationId: 'lapin',
+                musicTitle: 'Erik Satie: Gymnopédie No. 2',
+                musicPreviewUrl: '/api/music/deezer/track/2096132767'
             }
         ]
     }
 ];
 
-// Art suggestions
+// Art suggestions - Blue Period masterworks
 export const picassoParisMasterworks = [
-    { title: 'La Vie', year: 1903, location: 'Cleveland Museum of Art' },
-    { title: 'The Old Guitarist', year: 1903, location: 'Art Institute of Chicago' },
-    { title: 'The Tragedy', year: 1903, location: 'National Gallery of Art' },
-    { title: 'La Celestina', year: 1904, location: 'Musée Picasso, Paris' },
-    { title: 'Les Demoiselles d\'Avignon', year: 1907, location: 'MoMA, New York' }
+    { title: 'La Vie', year: 1903, location: 'Cleveland Museum of Art', period: 'Blue Period' },
+    { title: 'The Old Guitarist', year: 1903, location: 'Art Institute of Chicago', period: 'Blue Period' },
+    { title: 'The Tragedy', year: 1903, location: 'National Gallery of Art', period: 'Blue Period' },
+    { title: 'La Celestina', year: 1904, location: 'Musée Picasso, Paris', period: 'Blue Period' },
+    { title: 'The Death of Casagemas', year: 1901, location: 'Musée Picasso, Paris', period: 'Blue Period' },
+    { title: 'Les Demoiselles d\'Avignon', year: 1907, location: 'MoMA, New York', period: 'Proto-Cubism' }
+];
+
+// Music suggestions - Belle Époque Paris atmosphere
+export const picassoParisMusic = [
+    { title: 'Gymnopédie No. 1', artist: 'Erik Satie', year: 1888, context: 'Satie played piano at Le Chat Noir cabaret in Montmartre' },
+    { title: 'Je te veux (Waltz)', artist: 'Erik Satie', year: 1900, context: 'Cabaret waltz from Montmartre' },
+    { title: 'Clair de Lune', artist: 'Claude Debussy', year: 1905, context: 'Impressionist masterpiece of Belle Époque Paris' },
+    { title: 'Arabesque No. 1', artist: 'Claude Debussy', year: 1888, context: 'Debussy and Satie were close friends in Paris' },
+    { title: 'Pavane pour une infante défunte', artist: 'Maurice Ravel', year: 1899, context: 'The melancholy of fin-de-siècle Paris' }
 ];

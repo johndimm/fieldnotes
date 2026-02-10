@@ -122,6 +122,8 @@ export const hendrixLocations: EnhancedLocation[] = [
         lng: -0.4543,
         date: 'September 24, 1966',
         description: 'Jimi Hendrix arrived in London with just his guitar and the clothes on his back. Chas Chandler, bassist of The Animals, had discovered him playing in a New York club and was convinced he could make him a star in Britain.',
+        photoUrl: '/photos/jimi_hendrix_1967.png',
+        photoTitle: 'Jimi Hendrix, 1967',
         content: [
             {
                 id: 'heathrow-quote-1',
@@ -140,11 +142,26 @@ export const hendrixLocations: EnhancedLocation[] = [
                 source: 'Are You Experienced?'
             },
             {
+                id: 'heathrow-quote-3',
+                type: 'quote',
+                locationId: 'heathrow',
+                text: 'Chas told me, "Trust me, this guy is going to be huge." I thought he was crazy.',
+                speaker: 'Mike Jeffery',
+                source: 'Co-manager'
+            },
+            {
                 id: 'heathrow-music-1',
                 type: 'music',
                 locationId: 'heathrow',
                 musicTitle: 'Hey Joe',
                 musicPreviewUrl: '/api/music/deezer/track/4969003'
+            },
+            {
+                id: 'heathrow-music-2',
+                type: 'music',
+                locationId: 'heathrow',
+                musicTitle: 'Foxey Lady',
+                musicPreviewUrl: '/api/music/deezer/track/4952906'
             }
         ]
     },
@@ -357,6 +374,8 @@ export const hendrixLocations: EnhancedLocation[] = [
         lng: 11.5820,
         date: 'November 8-11, 1966',
         description: 'A pivotal stop on the Experience\'s first European tour. At the Big Apple club in Munich, Jimi smashed his guitar for the first time - a moment that would become his signature.',
+        photoUrl: '/photos/jimi_hendrix_1967.png',
+        photoTitle: 'Jimi Hendrix performing, 1967',
         content: [
             {
                 id: 'munich-quote-1',
@@ -372,6 +391,13 @@ export const hendrixLocations: EnhancedLocation[] = [
                 locationId: 'munich',
                 passage: 'The first guitar smashing was not planned. The low ceiling of the Big Apple club made Hendrix\'s usual wild movements impossible. Frustrated, he smashed the guitar against the ceiling. The crowd went wild. A ritual was born.',
                 passageSource: 'Historical account'
+            },
+            {
+                id: 'munich-music-1',
+                type: 'music',
+                locationId: 'munich',
+                musicTitle: 'Fire',
+                musicPreviewUrl: '/api/music/deezer/track/4952904'
             }
         ]
     },
@@ -382,6 +408,8 @@ export const hendrixLocations: EnhancedLocation[] = [
         lng: -0.1494,
         date: '1968-1969',
         description: 'Jimi\'s London flat from 1968-69, in the heart of Mayfair. By extraordinary coincidence, George Frideric Handel had lived next door at No. 25 from 1723 until his death in 1759. Both flats are now the Handel & Hendrix museum.',
+        photoUrl: '/photos/jimi_hendrix_1967.png',
+        photoTitle: 'Jimi Hendrix, 1967',
         content: [
             {
                 id: 'brook-quote-1',
@@ -413,6 +441,20 @@ export const hendrixLocations: EnhancedLocation[] = [
                 locationId: 'brook-street',
                 musicTitle: 'Voodoo Child (Slight Return)',
                 musicPreviewUrl: '/api/music/deezer/track/4952826'
+            },
+            {
+                id: 'brook-music-2',
+                type: 'music',
+                locationId: 'brook-street',
+                musicTitle: 'Little Wing',
+                musicPreviewUrl: '/api/music/deezer/track/4952963'
+            },
+            {
+                id: 'brook-music-3',
+                type: 'music',
+                locationId: 'brook-street',
+                musicTitle: 'All Along the Watchtower',
+                musicPreviewUrl: '/api/music/deezer/track/4952889'
             }
         ]
     },
@@ -492,6 +534,20 @@ export const hendrixLocations: EnhancedLocation[] = [
                 text: '[His technique was like] John Lee Hooker and Beethoven.',
                 speaker: 'Billy Cox',
                 source: 'Hendrix\'s bassist'
+            },
+            {
+                id: 'marquee-music-1',
+                type: 'music',
+                locationId: 'marquee',
+                musicTitle: 'Red House',
+                musicPreviewUrl: '/api/music/deezer/track/4952898'
+            },
+            {
+                id: 'marquee-music-2',
+                type: 'music',
+                locationId: 'marquee',
+                musicTitle: 'Purple Haze',
+                musicPreviewUrl: '/api/music/deezer/track/4952885'
             }
         ]
     }

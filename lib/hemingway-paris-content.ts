@@ -100,6 +100,8 @@ export const hemingwayParisLocations: EnhancedLocation[] = [
         lng: -87.7845,
         date: '1899-1917',
         description: 'Hemingway grew up in this affluent Chicago suburb. His father was a doctor who taught him to hunt and fish; his mother was a domineering musician. He later called Oak Park a place of "broad lawns and narrow minds."',
+        photoUrl: '/hemingway/hemingway_birthplace.jpg',
+        photoTitle: 'Hemingway\'s birthplace in Oak Park',
         content: [
             {
                 id: 'oak-park-quote-1',
@@ -116,6 +118,14 @@ export const hemingwayParisLocations: EnhancedLocation[] = [
                 text: 'My mother was a bitch and my father was a coward.',
                 speaker: 'Ernest Hemingway',
                 source: 'Attributed'
+            },
+            {
+                id: 'oak-park-quote-3',
+                type: 'quote',
+                locationId: 'oak-park',
+                text: 'I was always embarrassed by the words sacred, glorious, and sacrifice. We had heard them, on proclamations that were slapped up by billposters over other proclamations, now for a long time, and I had seen nothing sacred, and the things that were glorious had no glory.',
+                speaker: 'Ernest Hemingway',
+                source: 'A Farewell to Arms'
             }
         ]
     },
@@ -126,6 +136,8 @@ export const hemingwayParisLocations: EnhancedLocation[] = [
         lng: 12.5833,
         date: 'July 8, 1918',
         description: 'At 18, Hemingway was driving an ambulance on the Italian front when an Austrian mortar shell exploded. He was hit by 237 shrapnel fragments. He carried a wounded soldier to safety before collapsing. The trauma would shape all his writing.',
+        photoUrl: '/hemingway/hemingway_portrait.jpg',
+        photoTitle: 'Young Hemingway in uniform',
         content: [
             {
                 id: 'italy-quote-1',
@@ -142,6 +154,14 @@ export const hemingwayParisLocations: EnhancedLocation[] = [
                 text: 'I died then. I felt my soul go out of me and then come back.',
                 speaker: 'Ernest Hemingway',
                 source: 'On being wounded'
+            },
+            {
+                id: 'italy-quote-3',
+                type: 'quote',
+                locationId: 'italy',
+                text: 'The world breaks everyone and afterward many are strong at the broken places.',
+                speaker: 'Ernest Hemingway',
+                source: 'A Farewell to Arms'
             }
         ]
     },
@@ -152,6 +172,8 @@ export const hemingwayParisLocations: EnhancedLocation[] = [
         lng: 2.3737,
         date: 'December 22, 1921',
         description: 'Hemingway and Hadley arrived in Paris with little money and a letter of introduction from Sherwood Anderson. Paris was cheap, beautiful, and filled with artists. It was exactly what a young writer needed.',
+        photoUrl: '/hemingway/gare_de_lyon.jpg',
+        photoTitle: 'Gare de Lyon, Paris',
         content: [
             {
                 id: 'paris-arrival-quote-1',
@@ -168,6 +190,21 @@ export const hemingwayParisLocations: EnhancedLocation[] = [
                 text: 'We were very poor and very happy.',
                 speaker: 'Ernest Hemingway',
                 source: 'A Moveable Feast'
+            },
+            {
+                id: 'paris-arrival-quote-3',
+                type: 'quote',
+                locationId: 'paris-arrival',
+                text: 'There is never any ending to Paris and the memory of each person who has lived in it differs from that of any other.',
+                speaker: 'Ernest Hemingway',
+                source: 'A Moveable Feast'
+            },
+            {
+                id: 'paris-arrival-music-1',
+                type: 'music',
+                locationId: 'paris-arrival',
+                musicTitle: 'La Vie en Rose',
+                musicPreviewUrl: '/api/music/deezer/track/3135556'
             }
         ]
     },
@@ -178,6 +215,8 @@ export const hemingwayParisLocations: EnhancedLocation[] = [
         lng: 2.3513,
         date: '1922-1923',
         description: 'A cold-water flat on the fourth floor with no toilet. Hemingway wrote in a rented room nearby, heating only with a bundle of twigs. Here he learned his craft - one true sentence at a time.',
+        photoUrl: '/hemingway/hemingway_portrait.jpg',
+        photoTitle: 'Hemingway in Paris',
         content: [
             {
                 id: 'rue-cardinal-quote-1',
@@ -202,6 +241,29 @@ export const hemingwayParisLocations: EnhancedLocation[] = [
                 text: 'I would stand and look out over the roofs of Paris and think, "Do not worry. You have always written before and you will write now."',
                 speaker: 'Ernest Hemingway',
                 source: 'A Moveable Feast'
+            },
+            {
+                id: 'rue-cardinal-quote-4',
+                type: 'quote',
+                locationId: 'rue-cardinal',
+                text: 'Hunger is good discipline.',
+                speaker: 'Ernest Hemingway',
+                source: 'A Moveable Feast'
+            },
+            {
+                id: 'rue-cardinal-quote-5',
+                type: 'quote',
+                locationId: 'rue-cardinal',
+                text: 'You belong to me and all Paris belongs to me and I belong to this notebook and this pencil.',
+                speaker: 'Ernest Hemingway',
+                source: 'A Moveable Feast'
+            },
+            {
+                id: 'rue-cardinal-music-1',
+                type: 'music',
+                locationId: 'rue-cardinal',
+                musicTitle: 'Minor Swing',
+                musicPreviewUrl: '/api/music/deezer/track/916405'
             }
         ]
     },
@@ -212,6 +274,8 @@ export const hemingwayParisLocations: EnhancedLocation[] = [
         lng: 2.3292,
         date: '1922-1926',
         description: 'Gertrude Stein\'s legendary salon, walls covered with Picassos, Matisses, Cézannes. Stein taught Hemingway about rhythm and repetition, about seeing clearly. She called his generation "lost" - he made the phrase immortal.',
+        photoUrl: '/hemingway/gertrude_stein.jpg',
+        photoTitle: 'Gertrude Stein\'s salon',
         content: [
             {
                 id: 'stein-quote-1',
@@ -246,10 +310,114 @@ export const hemingwayParisLocations: EnhancedLocation[] = [
                 source: 'Letter, on his complicated feelings for Stein'
             },
             {
+                id: 'stein-quote-5',
+                type: 'quote',
+                locationId: 'stein',
+                text: 'A rose is a rose is a rose is a rose.',
+                speaker: 'Gertrude Stein',
+                source: 'Sacred Emily'
+            },
+            {
+                id: 'stein-quote-6',
+                type: 'quote',
+                locationId: 'stein',
+                text: 'America is my country and Paris is my hometown.',
+                speaker: 'Gertrude Stein',
+                source: 'On expatriate life'
+            },
+            {
+                id: 'stein-quote-7',
+                type: 'quote',
+                locationId: 'stein',
+                text: 'Gertrude was always right. She had a clearness of vision that no one else had.',
+                speaker: 'Ernest Hemingway',
+                source: 'A Moveable Feast'
+            },
+            {
                 id: 'stein-attendee-1',
                 type: 'attendee',
                 locationId: 'stein',
                 text: 'Alice B. Toklas, Picasso, Matisse, Sherwood Anderson, Ezra Pound'
+            },
+            {
+                id: 'stein-music-1',
+                type: 'music',
+                locationId: 'stein',
+                musicTitle: 'Nuages',
+                musicPreviewUrl: '/api/music/deezer/track/916407'
+            }
+        ]
+    },
+    {
+        id: 'ezra-pound',
+        name: 'Ezra Pound\'s Studio',
+        lat: 48.8488,
+        lng: 2.3421,
+        date: '1922-1924',
+        description: 'Ezra Pound lived at 70 bis rue Notre-Dame-des-Champs. He taught Hemingway about cutting, about precision, about making every word count. They boxed together in Pound\'s studio. Pound edited Hemingway\'s early work with a brutal red pencil, teaching him that less is more.',
+        photoUrl: '/hemingway/hemingway_portrait.jpg',
+        photoTitle: 'The young writer learning his craft',
+        content: [
+            {
+                id: 'pound-quote-1',
+                type: 'quote',
+                locationId: 'ezra-pound',
+                text: 'Ezra was the most generous writer I have ever known and the most disinterested. He helped poets, painters, sculptors and prose writers that he believed in and he would help anyone whether he believed in them or not if they were in trouble.',
+                speaker: 'Ernest Hemingway',
+                source: 'A Moveable Feast'
+            },
+            {
+                id: 'pound-quote-2',
+                type: 'quote',
+                locationId: 'ezra-pound',
+                text: 'Fundamental accuracy of statement is the ONE sole morality of writing.',
+                speaker: 'Ezra Pound',
+                source: 'ABC of Reading'
+            },
+            {
+                id: 'pound-quote-3',
+                type: 'quote',
+                locationId: 'ezra-pound',
+                text: 'Use no superfluous word, no adjective, which does not reveal something.',
+                speaker: 'Ezra Pound',
+                source: 'A Few Don\'ts by an Imagiste'
+            },
+            {
+                id: 'pound-quote-4',
+                type: 'quote',
+                locationId: 'ezra-pound',
+                text: 'Poetry must be as well written as prose.',
+                speaker: 'Ezra Pound',
+                source: 'Teaching principle'
+            },
+            {
+                id: 'pound-quote-5',
+                type: 'quote',
+                locationId: 'ezra-pound',
+                text: 'He taught me to distrust adjectives as I would later learn to distrust certain people.',
+                speaker: 'Ernest Hemingway',
+                source: 'A Moveable Feast'
+            },
+            {
+                id: 'pound-quote-6',
+                type: 'quote',
+                locationId: 'ezra-pound',
+                text: 'Literature is news that stays news.',
+                speaker: 'Ezra Pound',
+                source: 'ABC of Reading'
+            },
+            {
+                id: 'pound-attendee-1',
+                type: 'attendee',
+                locationId: 'ezra-pound',
+                text: 'Ezra Pound, Dorothy Pound, T.S. Eliot, Ford Madox Ford'
+            },
+            {
+                id: 'pound-music-1',
+                type: 'music',
+                locationId: 'ezra-pound',
+                musicTitle: 'Minor Blues',
+                musicPreviewUrl: '/api/music/deezer/track/916411'
             }
         ]
     },
@@ -260,6 +428,8 @@ export const hemingwayParisLocations: EnhancedLocation[] = [
         lng: 2.3471,
         date: '1921-1926',
         description: 'Sylvia Beach\'s bookshop at 12 rue de l\'Odéon was the headquarters of English-language modernism. She had published Joyce\'s Ulysses when no one else would. She lent Hemingway books and became a lifelong friend.',
+        photoUrl: '/hemingway/shakespeare_company.jpg',
+        photoTitle: 'Shakespeare and Company bookshop',
         content: [
             {
                 id: 'shakespeare-quote-1',
@@ -286,10 +456,41 @@ export const hemingwayParisLocations: EnhancedLocation[] = [
                 source: 'A Moveable Feast'
             },
             {
+                id: 'shakespeare-quote-4',
+                type: 'quote',
+                locationId: 'shakespeare',
+                text: 'No one that I ever knew was nicer to me.',
+                speaker: 'Ernest Hemingway',
+                source: 'On Sylvia Beach, A Moveable Feast'
+            },
+            {
+                id: 'shakespeare-quote-5',
+                type: 'quote',
+                locationId: 'shakespeare',
+                text: 'The use of capitals, which Joyce has forbidden, is pedantic, old-fashioned, and out of date.',
+                speaker: 'Ezra Pound',
+                source: 'On editing Hemingway\'s early work'
+            },
+            {
+                id: 'shakespeare-quote-6',
+                type: 'quote',
+                locationId: 'shakespeare',
+                text: 'Ezra was right half the time, and when he was wrong, he was so wrong you were never in any doubt about it.',
+                speaker: 'Ernest Hemingway',
+                source: 'A Moveable Feast'
+            },
+            {
                 id: 'shakespeare-attendee-1',
                 type: 'attendee',
                 locationId: 'shakespeare',
                 text: 'Sylvia Beach, James Joyce, Ezra Pound, Gertrude Stein'
+            },
+            {
+                id: 'shakespeare-music-1',
+                type: 'music',
+                locationId: 'shakespeare',
+                musicTitle: 'Autumn Leaves (Les Feuilles Mortes)',
+                musicPreviewUrl: '/api/music/deezer/track/916413'
             }
         ]
     },
@@ -300,6 +501,8 @@ export const hemingwayParisLocations: EnhancedLocation[] = [
         lng: 2.3375,
         date: '1922-1926',
         description: 'Hemingway\'s favorite café for writing, at the corner of Boulevard Montparnasse and Boulevard Saint-Michel. He wrote at a corner table, ordering café crème and watching the chestnut trees. Here he rewrote The Sun Also Rises.',
+        photoUrl: '/hemingway/closerie_des_lilas.jpg',
+        photoTitle: 'La Closerie des Lilas café',
         content: [
             {
                 id: 'closerie-quote-1',
@@ -324,6 +527,110 @@ export const hemingwayParisLocations: EnhancedLocation[] = [
                 text: 'I rewrote the ending thirty-nine times before I was satisfied.',
                 speaker: 'Ernest Hemingway',
                 source: 'On finishing The Sun Also Rises'
+            },
+            {
+                id: 'closerie-quote-4',
+                type: 'quote',
+                locationId: 'closerie',
+                text: 'When I am working on a book or a story I write every morning as soon after first light as possible. There is no one to disturb you and it is cool or cold and you come to your work and warm as you write.',
+                speaker: 'Ernest Hemingway',
+                source: 'Paris Review Interview'
+            },
+            {
+                id: 'closerie-quote-5',
+                type: 'quote',
+                locationId: 'closerie',
+                text: 'All good books are alike in that they are truer than if they had really happened.',
+                speaker: 'Ernest Hemingway',
+                source: 'On writing'
+            },
+            {
+                id: 'closerie-quote-6',
+                type: 'quote',
+                locationId: 'closerie',
+                text: 'The café was crowded. You could always find someone to talk to. But I did not want to talk to anyone. I wanted to write.',
+                speaker: 'Ernest Hemingway',
+                source: 'A Moveable Feast'
+            },
+            {
+                id: 'closerie-music-1',
+                type: 'music',
+                locationId: 'closerie',
+                musicTitle: 'Djangology',
+                musicPreviewUrl: '/api/music/deezer/track/916401'
+            }
+        ]
+    },
+    {
+        id: 'dingo-bar',
+        name: 'Dingo Bar',
+        lat: 48.8427,
+        lng: 2.3330,
+        date: '1925',
+        description: 'At the Dingo American Bar on rue Delambre, Hemingway first met F. Scott Fitzgerald in April 1925. Fitzgerald had just published The Great Gatsby. The meeting was legendary - Fitzgerald was drunk, enthusiastic, and full of admiration. He would introduce Hemingway to Maxwell Perkins and change his life.',
+        photoUrl: '/hemingway/closerie_des_lilas.jpg',
+        photoTitle: 'Montparnasse café scene',
+        content: [
+            {
+                id: 'dingo-quote-1',
+                type: 'quote',
+                locationId: 'dingo-bar',
+                text: 'Scott was a man then who looked like a boy with a face between handsome and pretty.',
+                speaker: 'Ernest Hemingway',
+                source: 'A Moveable Feast'
+            },
+            {
+                id: 'dingo-quote-2',
+                type: 'quote',
+                locationId: 'dingo-bar',
+                text: 'You\'re the best writer in America.',
+                speaker: 'F. Scott Fitzgerald',
+                source: 'To Hemingway at their first meeting'
+            },
+            {
+                id: 'dingo-quote-3',
+                type: 'quote',
+                locationId: 'dingo-bar',
+                text: 'He wanted to be a serious writer and yet there was that Hollywood corrupting him.',
+                speaker: 'Ernest Hemingway',
+                source: 'On Fitzgerald\'s struggles'
+            },
+            {
+                id: 'dingo-quote-4',
+                type: 'quote',
+                locationId: 'dingo-bar',
+                text: 'Ernest would always give a helping hand to a man on a ledge a little higher up.',
+                speaker: 'F. Scott Fitzgerald',
+                source: 'Notebook entry'
+            },
+            {
+                id: 'dingo-quote-5',
+                type: 'quote',
+                locationId: 'dingo-bar',
+                text: 'I am too much in love with my wife.',
+                speaker: 'F. Scott Fitzgerald',
+                source: 'To Hemingway'
+            },
+            {
+                id: 'dingo-quote-6',
+                type: 'quote',
+                locationId: 'dingo-bar',
+                text: 'Zelda was jealous of Scott\'s work and as we got to know them, this fell into a regular pattern.',
+                speaker: 'Ernest Hemingway',
+                source: 'A Moveable Feast'
+            },
+            {
+                id: 'dingo-attendee-1',
+                type: 'attendee',
+                locationId: 'dingo-bar',
+                text: 'F. Scott Fitzgerald, Zelda Fitzgerald, Duncan Chaplin'
+            },
+            {
+                id: 'dingo-music-1',
+                type: 'music',
+                locationId: 'dingo-bar',
+                musicTitle: 'Sweet Georgia Brown',
+                musicPreviewUrl: '/api/music/deezer/track/916403'
             }
         ]
     },
@@ -334,6 +641,8 @@ export const hemingwayParisLocations: EnhancedLocation[] = [
         lng: -1.6458,
         date: 'July 1925',
         description: 'The fiesta of San Fermín - bullfights, running of the bulls, and too much drinking. Hemingway went with a group of friends whose jealousies and betrayals became The Sun Also Rises. Lady Duff Twysden was Brett Ashley.',
+        photoUrl: '/hemingway/pamplona_bulls.jpg',
+        photoTitle: 'Running of the bulls, Pamplona',
         content: [
             {
                 id: 'pamplona-quote-1',
@@ -360,10 +669,33 @@ export const hemingwayParisLocations: EnhancedLocation[] = [
                 source: 'Interview'
             },
             {
+                id: 'pamplona-quote-4',
+                type: 'quote',
+                locationId: 'pamplona',
+                text: 'You can\'t get away from yourself by moving from one place to another.',
+                speaker: 'Ernest Hemingway',
+                source: 'The Sun Also Rises'
+            },
+            {
+                id: 'pamplona-quote-5',
+                type: 'quote',
+                locationId: 'pamplona',
+                text: 'I mistrust all frank and simple people, especially when their stories hold together.',
+                speaker: 'Ernest Hemingway',
+                source: 'The Sun Also Rises'
+            },
+            {
                 id: 'pamplona-attendee-1',
                 type: 'attendee',
                 locationId: 'pamplona',
                 text: 'Lady Duff Twysden, Harold Loeb, Bill Smith, Donald Ogden Stewart'
+            },
+            {
+                id: 'pamplona-music-1',
+                type: 'music',
+                locationId: 'pamplona',
+                musicTitle: 'Manoir de Mes Rêves',
+                musicPreviewUrl: '/api/music/deezer/track/916409'
             }
         ]
     },
@@ -374,6 +706,8 @@ export const hemingwayParisLocations: EnhancedLocation[] = [
         lng: -73.9840,
         date: 'October 1926',
         description: 'F. Scott Fitzgerald introduced Hemingway to his editor, Maxwell Perkins, at Scribner\'s. The Sun Also Rises was published on October 22, 1926. Hemingway became famous overnight. He was 27 years old.',
+        photoUrl: '/hemingway/hemingway_portrait.jpg',
+        photoTitle: 'Hemingway, the published author',
         content: [
             {
                 id: 'scribners-quote-1',
@@ -398,6 +732,45 @@ export const hemingwayParisLocations: EnhancedLocation[] = [
                 text: 'I had learned to write one sentence, then go on to the next. I kept my concentration.',
                 speaker: 'Ernest Hemingway',
                 source: 'On his method'
+            },
+            {
+                id: 'scribners-quote-4',
+                type: 'quote',
+                locationId: 'scribners',
+                text: 'Ernest is a rummy. But he\'s also a genius.',
+                speaker: 'F. Scott Fitzgerald',
+                source: 'Letter to Maxwell Perkins'
+            },
+            {
+                id: 'scribners-quote-5',
+                type: 'quote',
+                locationId: 'scribners',
+                text: 'Scott was a man then who looked like a boy with a face between handsome and pretty. He had very fair wavy hair, a high forehead, excited and friendly eyes and a delicate long-lipped Irish mouth.',
+                speaker: 'Ernest Hemingway',
+                source: 'A Moveable Feast'
+            },
+            {
+                id: 'scribners-quote-6',
+                type: 'quote',
+                locationId: 'scribners',
+                text: 'His talent was as natural as the pattern that was made by the dust on a butterfly\'s wings. At one time he understood it no more than the butterfly did and he did not know when it was brushed or marred.',
+                speaker: 'Ernest Hemingway',
+                source: 'On F. Scott Fitzgerald, A Moveable Feast'
+            },
+            {
+                id: 'scribners-quote-7',
+                type: 'quote',
+                locationId: 'scribners',
+                text: 'The rich are different from you and me.',
+                speaker: 'F. Scott Fitzgerald',
+                source: 'The Rich Boy'
+            },
+            {
+                id: 'scribners-music-1',
+                type: 'music',
+                locationId: 'scribners',
+                musicTitle: 'La Petite Tonkinoise',
+                musicPreviewUrl: '/api/music/deezer/track/128676784'
             }
         ]
     }

@@ -100,6 +100,8 @@ export const shakespeareLondonLocations: EnhancedLocation[] = [
         lng: -1.7083,
         date: '1564-c.1590',
         description: 'Shakespeare was born on Henley Street, son of John Shakespeare, a glovemaker and alderman, and Mary Arden, daughter of a prosperous farmer. He attended the King\'s New School, married young, had three children - then disappeared.',
+        photoUrl: '/shakespeare/stratford_birthplace.jpg',
+        photoTitle: 'Shakespeare\'s Birthplace, Stratford-upon-Avon',
         content: [
             {
                 id: 'stratford-quote-1',
@@ -124,6 +126,13 @@ export const shakespeareLondonLocations: EnhancedLocation[] = [
                 text: 'He had seven years in which to become Shakespeare. We have no idea how.',
                 speaker: 'Park Honan',
                 source: 'Shakespeare: A Life'
+            },
+            {
+                id: 'stratford-music-1',
+                type: 'music',
+                locationId: 'stratford',
+                musicTitle: 'Greensleeves (Elizabethan Lute)',
+                musicPreviewUrl: '/api/music/deezer/track/66419769'
             }
         ]
     },
@@ -134,6 +143,8 @@ export const shakespeareLondonLocations: EnhancedLocation[] = [
         lng: -0.1278,
         date: 'c. 1590-1613',
         description: 'London was a city of 200,000 - filthy, dangerous, brilliant. Plague swept through regularly. The theaters were new, disreputable, and wildly popular. Shakespeare arrived somehow and began writing plays that changed everything.',
+        photoUrl: '/shakespeare/london_1590s.jpg',
+        photoTitle: 'Elizabethan London',
         content: [
             {
                 id: 'london-quote-1',
@@ -158,6 +169,21 @@ export const shakespeareLondonLocations: EnhancedLocation[] = [
                 text: 'He held horses at the playhouse door. That\'s how he started.',
                 speaker: 'Samuel Johnson',
                 source: 'Reporting tradition'
+            },
+            {
+                id: 'london-quote-4',
+                type: 'quote',
+                locationId: 'london',
+                text: 'The theater is the great democratizer. At the Globe, earls stood next to apprentices.',
+                speaker: 'James Shapiro',
+                source: '1599: A Year in the Life of Shakespeare'
+            },
+            {
+                id: 'london-music-1',
+                type: 'music',
+                locationId: 'london',
+                musicTitle: 'Flow My Tears (John Dowland)',
+                musicPreviewUrl: '/api/music/deezer/track/785566882'
             }
         ]
     },
@@ -168,6 +194,8 @@ export const shakespeareLondonLocations: EnhancedLocation[] = [
         lng: -0.0934,
         date: '1587-1605',
         description: 'Philip Henslowe\'s playhouse on Bankside was where Marlowe\'s plays premiered. Shakespeare\'s early Henry VI plays were performed here. The Rose was his first theatrical home - smaller, more intimate than the Globe would be.',
+        photoUrl: '/shakespeare/rose_theatre.jpg',
+        photoTitle: 'The Rose Theatre excavation site',
         content: [
             {
                 id: 'rose-quote-1',
@@ -190,6 +218,21 @@ export const shakespeareLondonLocations: EnhancedLocation[] = [
                 type: 'attendee',
                 locationId: 'rose',
                 text: 'Edward Alleyn, Christopher Marlowe, Thomas Kyd'
+            },
+            {
+                id: 'rose-quote-3',
+                type: 'quote',
+                locationId: 'rose',
+                text: 'O tiger\'s heart wrapped in a woman\'s hide!',
+                speaker: 'William Shakespeare',
+                source: 'Henry VI Part 3 - the line Greene mocked'
+            },
+            {
+                id: 'rose-music-1',
+                type: 'music',
+                locationId: 'rose',
+                musicTitle: 'The Queen\'s Command (Orlando Gibbons)',
+                musicPreviewUrl: '/api/music/deezer/track/24448701'
             }
         ]
     },
@@ -200,6 +243,8 @@ export const shakespeareLondonLocations: EnhancedLocation[] = [
         lng: -0.0780,
         date: '1576-1598',
         description: 'England\'s first purpose-built playhouse, owned by James Burbage. The Lord Chamberlain\'s Men (Shakespeare\'s company) played here. When the lease expired in 1598, they dismantled it timber by timber and rebuilt it as the Globe.',
+        photoUrl: '/shakespeare/the_theatre_shoreditch.png',
+        photoTitle: 'The Theatre, Shoreditch (reconstruction)',
         content: [
             {
                 id: 'theatre-quote-1',
@@ -222,6 +267,21 @@ export const shakespeareLondonLocations: EnhancedLocation[] = [
                 type: 'attendee',
                 locationId: 'theatre',
                 text: 'Richard Burbage, Will Kempe, Henry Condell, John Heminges'
+            },
+            {
+                id: 'theatre-quote-3',
+                type: 'quote',
+                locationId: 'theatre',
+                text: 'Romeo and Juliet premiered here. The groundlings wept at the balcony scene.',
+                speaker: 'Theater tradition',
+                source: 'c. 1595'
+            },
+            {
+                id: 'theatre-music-1',
+                type: 'music',
+                locationId: 'theatre',
+                musicTitle: 'Spem in Alium (Thomas Tallis)',
+                musicPreviewUrl: '/api/music/deezer/track/993172972'
             }
         ]
     },
@@ -232,6 +292,8 @@ export const shakespeareLondonLocations: EnhancedLocation[] = [
         lng: -0.0900,
         date: '1564-1593',
         description: 'Born the same year as Shakespeare, Marlowe was the star of London theater - a Cambridge graduate, probable spy, atheist, and genius. His Tamburlaine and Faustus showed what blank verse could do. His murder in 1593 left the stage to Shakespeare.',
+        photoUrl: '/shakespeare/christopher_marlowe.jpg',
+        photoTitle: 'Portrait of Christopher Marlowe',
         content: [
             {
                 id: 'marlowe-quote-1',
@@ -256,6 +318,29 @@ export const shakespeareLondonLocations: EnhancedLocation[] = [
                 text: 'Dead shepherd, now I find thy saw of might: Who ever loved that loved not at first sight?',
                 speaker: 'William Shakespeare',
                 source: 'As You Like It - tribute to Marlowe'
+            },
+            {
+                id: 'marlowe-quote-4',
+                type: 'quote',
+                locationId: 'marlowe',
+                text: 'He was stabbed above the eye in a tavern in Deptford. Murder? Assassination? We\'ll never know.',
+                speaker: 'Coroner\'s report',
+                source: 'May 30, 1593'
+            },
+            {
+                id: 'marlowe-quote-5',
+                type: 'quote',
+                locationId: 'marlowe',
+                text: 'Come live with me and be my love, and we will all the pleasures prove.',
+                speaker: 'Christopher Marlowe',
+                source: 'The Passionate Shepherd to His Love'
+            },
+            {
+                id: 'marlowe-music-1',
+                type: 'music',
+                locationId: 'marlowe',
+                musicTitle: 'Lachrimae Pavan (John Dowland)',
+                musicPreviewUrl: '/api/music/deezer/track/3466142'
             }
         ]
     },
@@ -266,6 +351,8 @@ export const shakespeareLondonLocations: EnhancedLocation[] = [
         lng: -0.1278,
         date: '1592-1594',
         description: 'Plague closed London\'s theaters for nearly two years. Shakespeare turned to poetry, writing Venus and Adonis and The Rape of Lucrece for his patron Southampton. The epidemic killed thousands - but forced Shakespeare to prove he was more than a playwright.',
+        photoUrl: '/shakespeare/plague_bill.png',
+        photoTitle: 'London plague bill, 1590s',
         content: [
             {
                 id: 'plague-quote-1',
@@ -290,6 +377,29 @@ export const shakespeareLondonLocations: EnhancedLocation[] = [
                 text: 'The plague made Shakespeare a poet. When the theaters reopened, he was ready to be immortal.',
                 speaker: 'James Shapiro',
                 source: '1599: A Year in the Life of Shakespeare'
+            },
+            {
+                id: 'plague-quote-4',
+                type: 'quote',
+                locationId: 'plague',
+                text: 'A plague o\' both your houses!',
+                speaker: 'William Shakespeare',
+                source: 'Romeo and Juliet - Mercutio\'s dying curse'
+            },
+            {
+                id: 'plague-quote-5',
+                type: 'quote',
+                locationId: 'plague',
+                text: 'The theaters stayed dark. 10,000 died in London alone. Shakespeare wrote poems because he had to eat.',
+                speaker: 'Stephen Greenblatt',
+                source: 'Will in the World'
+            },
+            {
+                id: 'plague-music-1',
+                type: 'music',
+                locationId: 'plague',
+                musicTitle: 'Drop, Drop Slow Tears (Orlando Gibbons)',
+                musicPreviewUrl: '/api/music/deezer/track/74035682'
             }
         ]
     },
@@ -300,6 +410,8 @@ export const shakespeareLondonLocations: EnhancedLocation[] = [
         lng: -0.0972,
         date: '1599-1613',
         description: 'The "Wooden O" on Bankside, built from the timbers of The Theatre. Shakespeare owned a 12.5% share. Here he staged Hamlet, Othello, Lear, Macbeth, The Tempest. It burned down in 1613 during a performance of Henry VIII.',
+        photoUrl: '/shakespeare/globe_theatre.jpg',
+        photoTitle: 'The Globe Theatre',
         content: [
             {
                 id: 'globe-quote-1',
@@ -338,6 +450,124 @@ export const shakespeareLondonLocations: EnhancedLocation[] = [
                 type: 'attendee',
                 locationId: 'globe',
                 text: 'Richard Burbage, Will Kempe, John Heminges, Henry Condell, Robert Armin'
+            },
+            {
+                id: 'globe-quote-5',
+                type: 'quote',
+                locationId: 'globe',
+                text: 'To be, or not to be, that is the question.',
+                speaker: 'William Shakespeare',
+                source: 'Hamlet - premiered at the Globe, c. 1600'
+            },
+            {
+                id: 'globe-quote-6',
+                type: 'quote',
+                locationId: 'globe',
+                text: 'We are such stuff as dreams are made on, and our little life is rounded with a sleep.',
+                speaker: 'William Shakespeare',
+                source: 'The Tempest - his final play at the Globe'
+            },
+            {
+                id: 'globe-quote-7',
+                type: 'quote',
+                locationId: 'globe',
+                text: 'The groundlings stood in the pit, getting wet when it rained. They were rowdy, ate hazelnuts, threw them at bad actors.',
+                speaker: 'Andrew Gurr',
+                source: 'The Shakespearean Stage'
+            },
+            {
+                id: 'globe-quote-8',
+                type: 'quote',
+                locationId: 'globe',
+                text: 'Burbage was the first Hamlet. He must have been extraordinary.',
+                speaker: 'Ben Jonson',
+                source: 'Attributed'
+            },
+            {
+                id: 'globe-passage-1',
+                type: 'passage',
+                locationId: 'globe',
+                passage: 'The Globe could hold 3,000 people. Performances began at 2pm and lasted about two hours. A penny got you into the pit as a groundling. Twopence bought a seat in the galleries. Threepence got you a cushion. The flag flew when there was a performance - white for comedy, black for tragedy, red for history.',
+                passageSource: 'Theater historian accounts'
+            },
+            {
+                id: 'globe-music-1',
+                type: 'music',
+                locationId: 'globe',
+                musicTitle: 'L\'Orfeo - Possente spirto (Monteverdi)',
+                musicPreviewUrl: '/api/music/deezer/track/16808536'
+            },
+            {
+                id: 'globe-music-2',
+                type: 'music',
+                locationId: 'globe',
+                musicTitle: 'Assumpta Est Maria (William Byrd)',
+                musicPreviewUrl: '/api/music/deezer/track/12411359'
+            }
+        ]
+    },
+    {
+        id: 'jonson',
+        name: 'Ben Jonson & The Mermaid Tavern',
+        lat: 51.5128,
+        lng: -0.0933,
+        date: 'c. 1603-1616',
+        description: 'Ben Jonson - bricklayer, soldier, playwright, poet - was Shakespeare\'s friend and rival. They drank together at the Mermaid Tavern on Cheapside, trading wit with other writers. Jonson wrote the great tribute: "He was not of an age, but for all time."',
+        photoUrl: '/shakespeare/london_1590s.jpg',
+        photoTitle: 'Elizabethan London tavern scene',
+        content: [
+            {
+                id: 'jonson-quote-1',
+                type: 'quote',
+                locationId: 'jonson',
+                text: 'He was not of an age, but for all time!',
+                speaker: 'Ben Jonson',
+                source: 'To the Memory of My Beloved, the Author, Mr. William Shakespeare (1623)'
+            },
+            {
+                id: 'jonson-quote-2',
+                type: 'quote',
+                locationId: 'jonson',
+                text: 'I loved the man, and do honor his memory on this side idolatry as much as any.',
+                speaker: 'Ben Jonson',
+                source: 'Timber, or Discoveries'
+            },
+            {
+                id: 'jonson-quote-3',
+                type: 'quote',
+                locationId: 'jonson',
+                text: 'Shakespeare wanted art. He flowed with that facility that sometimes it was necessary he should be stopped.',
+                speaker: 'Ben Jonson',
+                source: 'Timber, or Discoveries - praising and criticizing'
+            },
+            {
+                id: 'jonson-quote-4',
+                type: 'quote',
+                locationId: 'jonson',
+                text: 'Many were the wit-combats betwixt him and Ben Jonson. Shakespeare was always the victor.',
+                speaker: 'Thomas Fuller',
+                source: 'History of the Worthies of England (1662)'
+            },
+            {
+                id: 'jonson-quote-5',
+                type: 'quote',
+                locationId: 'jonson',
+                text: 'What things have we seen done at the Mermaid! Heard words that have been so nimble and so full of subtle flame.',
+                speaker: 'Francis Beaumont',
+                source: 'Letter to Ben Jonson'
+            },
+            {
+                id: 'jonson-attendee-1',
+                type: 'attendee',
+                locationId: 'jonson',
+                text: 'Ben Jonson, John Donne, Francis Beaumont, John Fletcher'
+            },
+            {
+                id: 'jonson-music-1',
+                type: 'music',
+                locationId: 'jonson',
+                musicTitle: 'Lachrimae Coactae Pavan (John Dowland)',
+                musicPreviewUrl: '/api/music/deezer/track/12910523'
             }
         ]
     },
@@ -348,6 +578,8 @@ export const shakespeareLondonLocations: EnhancedLocation[] = [
         lng: -0.0937,
         date: 'c. 1602-1604',
         description: 'Shakespeare lodged with the Mountjoy family, French Huguenot wigmakers, at the corner of Silver Street and Monkwell Street. We know this because he testified in a lawsuit in 1612. It\'s the only London address we can confirm.',
+        photoUrl: '/shakespeare/shakespeare_portrait.jpg',
+        photoTitle: 'Shakespeare portrait (attributed)',
         content: [
             {
                 id: 'silver-quote-1',
@@ -372,6 +604,21 @@ export const shakespeareLondonLocations: EnhancedLocation[] = [
                 text: 'A French Huguenot household - perfect for writing about Venice, Verona, Vienna.',
                 speaker: 'Charles Nicholl',
                 source: 'The Lodger'
+            },
+            {
+                id: 'silver-quote-4',
+                type: 'quote',
+                locationId: 'silver-street',
+                text: 'Here he wrote Othello, Measure for Measure, possibly Lear. The Mountjoys knew nothing of his genius.',
+                speaker: 'Charles Nicholl',
+                source: 'The Lodger'
+            },
+            {
+                id: 'silver-music-1',
+                type: 'music',
+                locationId: 'silver-street',
+                musicTitle: 'Glorious and Powerful God (Orlando Gibbons)',
+                musicPreviewUrl: '/api/music/deezer/track/16782993'
             }
         ]
     }
