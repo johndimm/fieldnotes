@@ -4,6 +4,7 @@
   0% {
     transform: scale(1.2) translateX(-5%);
   }
+
   100% {
     transform: scale(1.3) translateX(5%);
   }
@@ -13,6 +14,7 @@
   0% {
     transform: scale(1.2) translateX(5%);
   }
+
   100% {
     transform: scale(1.3) translateX(-5%);
   }
@@ -22,6 +24,7 @@
   0% {
     transform: scale(1);
   }
+
   100% {
     transform: scale(1.2);
   }
@@ -31,6 +34,7 @@
   0% {
     transform: scale(1.2);
   }
+
   100% {
     transform: scale(1);
   }
@@ -40,6 +44,7 @@
   0% {
     transform: scale(1.15) translate(-3%, 3%);
   }
+
   100% {
     transform: scale(1.25) translate(3%, -3%);
   }
@@ -49,6 +54,7 @@
   0% {
     transform: scale(1.15) translate(3%, -3%);
   }
+
   100% {
     transform: scale(1.25) translate(-3%, 3%);
   }
@@ -61,6 +67,7 @@
     opacity: 0;
     transform: translateY(30px);
   }
+
   100% {
     opacity: 1;
     transform: translateY(0);
@@ -72,6 +79,7 @@
     opacity: 1;
     transform: translateY(0);
   }
+
   100% {
     opacity: 0;
     transform: translateY(-20px);
@@ -110,6 +118,8 @@
   width: 100%;
   height: 100%;
   object-fit: cover;
+  object-position: center 30%;
+  /* Shift focal point up to show heads */
   filter: grayscale(100%) contrast(1.1);
 }
 

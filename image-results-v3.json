@@ -1,0 +1,436 @@
+[
+  {
+    "subdir": "darwin",
+    "filename": "hms_beagle.jpg",
+    "path": "/darwin/hms_beagle.jpg",
+    "title": "HMS Beagle (Conrad Martens)",
+    "credit": "HMS Beagle by Conrad Martens.jpg",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:HMS_Beagle_by_Conrad_Martens.jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "darwin",
+    "filename": "brazilian_rainforest.jpg",
+    "path": "/darwin/brazilian_rainforest.jpg",
+    "title": "Brazilian Rainforest",
+    "credit": "ISS-20 Thunderstorms on the Brazilian Horizon.jpg",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:ISS-20_Thunderstorms_on_the_Brazilian_Horizon.jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "darwin",
+    "filename": "megatherium_fossil.jpg",
+    "path": "/darwin/megatherium_fossil.jpg",
+    "title": "Megatherium Fossil",
+    "credit": "Drawing of the fossil Megatherium Wellcome V0017000.jpg",
+    "license": "CC BY 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Drawing_of_the_fossil_Megatherium_Wellcome_V0017000.jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "darwin",
+    "filename": "tierra_del_fuego.jpg",
+    "path": "/darwin/tierra_del_fuego.jpg",
+    "title": "Tierra del Fuego",
+    "credit": "ARG-2016-Aerial-Tierra del Fuego (Ushuaia)–Valle Carbajal 01.jpg",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:ARG-2016-Aerial-Tierra_del_Fuego_(Ushuaia)%E2%80%93Valle_Carbajal_01.jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "darwin",
+    "filename": "chile_valdivia.jpg",
+    "path": "/darwin/chile_valdivia.jpg",
+    "title": "Valdivia, Chile",
+    "credit": "Festival Cine Valdivia City.jpg",
+    "license": "CC0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Festival_Cine_Valdivia_City.jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "darwin",
+    "filename": "falmouth_harbour.jpg",
+    "path": "/darwin/falmouth_harbour.jpg",
+    "title": "Falmouth Harbour",
+    "credit": "Falmouth Harbour, Cornwall - geograph.org.uk - 5310369.jpg",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Falmouth_Harbour,_Cornwall_-_geograph.org.uk_-_5310369.jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "einstein",
+    "filename": "ulm_munster.jpg",
+    "path": "/einstein/ulm_munster.jpg",
+    "title": "Ulm Minster",
+    "credit": "Ulm Cathedral of Our Lady in Ulm.jpg",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ulm_Cathedral_of_Our_Lady_in_Ulm.jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "einstein",
+    "filename": "munich_marienplatz.jpg",
+    "path": "/einstein/munich_marienplatz.jpg",
+    "title": "Munich Marienplatz",
+    "credit": "Rathaus and Marienplatz from Peterskirche - August 2006.jpg",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rathaus_and_Marienplatz_from_Peterskirche_-_August_2006.jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "einstein",
+    "filename": "eth_zurich.jpg",
+    "path": "/einstein/eth_zurich.jpg",
+    "title": "ETH Zurich",
+    "credit": "ETH Zürich Hauptgebäude, Ansicht von der Polyterrasse 2011-08-06 ShiftN.jpg",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:ETH_Z%C3%BCrich_Hauptgeb%C3%A4ude,_Ansicht_von_der_Polyterrasse_2011-08-06_ShiftN.jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "einstein",
+    "filename": "bern_patent_office.jpg",
+    "path": "/einstein/bern_patent_office.jpg",
+    "title": "Bern Patent Office",
+    "credit": "Federal Palace of Switzerland.jpg",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Federal_Palace_of_Switzerland.jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "einstein",
+    "filename": "kramgasse_bern.jpg",
+    "title": "Kramgasse, Bern",
+    "status": "not_found"
+  },
+  {
+    "subdir": "einstein",
+    "filename": "einstein_1905.jpg",
+    "path": "/einstein/einstein_1905.jpg",
+    "title": "Albert Einstein, 1905",
+    "credit": "Albert Einstein 1979 USSR Stamp.jpg",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Albert_Einstein_1979_USSR_Stamp.jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "einstein",
+    "filename": "annalen_der_physik.jpg",
+    "path": "/einstein/annalen_der_physik.jpg",
+    "title": "Annalen der Physik",
+    "credit": "Einstein Die Grundlage der allgemeinen Relativitätstheorie Sonderdruck 1916 Titel.jpg",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Einstein_Die_Grundlage_der_allgemeinen_Relativit%C3%A4tstheorie_Sonderdruck_1916_Titel.jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "shakespeare",
+    "filename": "stratford_birthplace.jpg",
+    "path": "/shakespeare/stratford_birthplace.jpg",
+    "title": "Shakespeare's Birthplace",
+    "credit": "Birthplace of Shakespeare.jpg",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Birthplace_of_Shakespeare.jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "shakespeare",
+    "filename": "the_theatre_shoreditch.png",
+    "path": "/shakespeare/the_theatre_shoreditch.png",
+    "title": "Elizabethan Theatre (de Witt sketch)",
+    "credit": "The Swan cropped.png",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Swan_cropped.png",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "shakespeare",
+    "filename": "christopher_marlowe.jpg",
+    "path": "/shakespeare/christopher_marlowe.jpg",
+    "title": "Christopher Marlowe",
+    "credit": "Christopher Marlowe.jpg",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Christopher_Marlowe.jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "shakespeare",
+    "filename": "plague_bill.png",
+    "path": "/shakespeare/plague_bill.png",
+    "title": "London Plague Bill of Mortality",
+    "credit": "Great Plague of London table of funerals.png",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_Plague_of_London_table_of_funerals.png",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "shakespeare",
+    "filename": "globe_theatre.jpg",
+    "path": "/shakespeare/globe_theatre.jpg",
+    "title": "Shakespeare's Globe Theatre",
+    "credit": "London - Shakespeare's Globe Theatre Replica 1997.jpg",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:London_-_Shakespeare%27s_Globe_Theatre_Replica_1997.jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "bronte",
+    "filename": "thornton_birthplace.jpg",
+    "path": "/bronte/thornton_birthplace.jpg",
+    "title": "Bronte Birthplace, Thornton",
+    "credit": "Bronte birthplace, Thornton Village - geograph.org.uk - 39907.jpg",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bronte_birthplace,_Thornton_Village_-_geograph.org.uk_-_39907.jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "bronte",
+    "filename": "haworth_parsonage.jpg",
+    "path": "/bronte/haworth_parsonage.jpg",
+    "title": "Haworth Parsonage",
+    "credit": "Brontë Parsonage.jpg",
+    "license": "CC BY-SA 4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bront%C3%AB_Parsonage.jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "bronte",
+    "filename": "yorkshire_moors.jpg",
+    "path": "/bronte/yorkshire_moors.jpg",
+    "title": "Yorkshire Moors",
+    "credit": "Sunny Dale, Bingley Moor - geograph.org.uk - 44693.jpg",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunny_Dale,_Bingley_Moor_-_geograph.org.uk_-_44693.jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "bronte",
+    "filename": "bronte_sisters_painting.jpg",
+    "path": "/bronte/bronte_sisters_painting.jpg",
+    "title": "The Bronte Sisters (Branwell Bronte)",
+    "credit": "The Brontë Sisters by Patrick Branwell Brontë.jpg",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Bront%C3%AB_Sisters_by_Patrick_Branwell_Bront%C3%AB.jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "bronte",
+    "filename": "scarborough_yorkshire.jpg",
+    "path": "/bronte/scarborough_yorkshire.jpg",
+    "title": "Scarborough, Yorkshire",
+    "credit": "Yorkshire Coast Line towards Hunmanby and Scarborough - geograph.org.uk - 7529149.jpg",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yorkshire_Coast_Line_towards_Hunmanby_and_Scarborough_-_geograph.org.uk_-_7529149.jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "hemingway",
+    "filename": "hemingway_birthplace.jpg",
+    "path": "/hemingway/hemingway_birthplace.jpg",
+    "title": "Hemingway Birthplace, Oak Park",
+    "credit": "Hemingway birthplace.jpg",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hemingway_birthplace.jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "hemingway",
+    "filename": "piave_river_wwi.jpg",
+    "title": "Piave River, WWI",
+    "status": "not_found"
+  },
+  {
+    "subdir": "hemingway",
+    "filename": "gare_de_lyon.jpg",
+    "path": "/hemingway/gare_de_lyon.jpg",
+    "title": "Gare de Lyon, Paris",
+    "credit": "P1210896 Paris XII gare de Lyon rwk.jpg",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:P1210896_Paris_XII_gare_de_Lyon_rwk.jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "hemingway",
+    "filename": "paris_latin_quarter.jpg",
+    "title": "Paris Latin Quarter",
+    "status": "not_found"
+  },
+  {
+    "subdir": "hemingway",
+    "filename": "gertrude_stein.jpg",
+    "path": "/hemingway/gertrude_stein.jpg",
+    "title": "Gertrude Stein",
+    "credit": "Gertrude Stein 1935-01-04.jpg",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gertrude_Stein_1935-01-04.jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "hemingway",
+    "filename": "shakespeare_company.jpg",
+    "path": "/hemingway/shakespeare_company.jpg",
+    "title": "Shakespeare and Company, Paris",
+    "credit": "Bookshop 'Shakespeare', Centre Paris II.jpg",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bookshop_%27Shakespeare%27,_Centre_Paris_II.jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "hemingway",
+    "filename": "closerie_des_lilas.jpg",
+    "path": "/hemingway/closerie_des_lilas.jpg",
+    "title": "La Closerie des Lilas",
+    "credit": "Paris - La Closerie des Lilas - 2018.jpg",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paris_-_La_Closerie_des_Lilas_-_2018.jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "hemingway",
+    "filename": "pamplona_bulls.jpg",
+    "path": "/hemingway/pamplona_bulls.jpg",
+    "title": "Pamplona Bullring",
+    "credit": "Plaza de Toros de Pamplona.JPG",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plaza_de_Toros_de_Pamplona.JPG",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "hemingway",
+    "filename": "hemingway_portrait.jpg",
+    "path": "/hemingway/hemingway_portrait.jpg",
+    "title": "Ernest Hemingway",
+    "credit": "Ernest Hemingway 1923 passport photo.jpg",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ernest_Hemingway_1923_passport_photo.jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "welles",
+    "filename": "gate_theatre_dublin.jpg",
+    "path": "/welles/gate_theatre_dublin.jpg",
+    "title": "Gate Theatre, Dublin",
+    "credit": "Dublin Ireland Gate Theater 2009-09-27.JPG",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dublin_Ireland_Gate_Theater_2009-09-27.JPG",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "welles",
+    "filename": "mercury_theatre.jpg",
+    "path": "/welles/mercury_theatre.jpg",
+    "title": "Mercury Theatre Production",
+    "credit": "Welles-Radio-Scare-1938.jpg",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Welles-Radio-Scare-1938.jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "welles",
+    "filename": "cbs_radio.jpg",
+    "path": "/welles/cbs_radio.jpg",
+    "title": "CBS Radio Studio",
+    "credit": "W. C. Fields 1938.jpg",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:W._C._Fields_1938.jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "welles",
+    "filename": "hearst_castle.jpg",
+    "path": "/welles/hearst_castle.jpg",
+    "title": "Hearst Castle",
+    "credit": "Hearst Castle Casa Grande September 2012 panorama 2.jpg",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hearst_Castle_Casa_Grande_September_2012_panorama_2.jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "welles",
+    "filename": "citizen_kane_poster.png",
+    "path": "/welles/citizen_kane_poster.png",
+    "title": "Citizen Kane",
+    "credit": "Citizen Kane Logo.png",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Citizen_Kane_Logo.png",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "beatles",
+    "filename": "liverpool_cavern.jpg",
+    "path": "/beatles/liverpool_cavern.jpg",
+    "title": "The Cavern Club, Liverpool",
+    "credit": "The Cavern Club interior, Mathew Street, Liverpool, 2012.jpg",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Cavern_Club_interior,_Mathew_Street,_Liverpool,_2012.jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "beatles",
+    "filename": "hamburg_reeperbahn.jpg",
+    "path": "/beatles/hamburg_reeperbahn.jpg",
+    "title": "Reeperbahn, Hamburg",
+    "credit": "Grosse Freiheit Hamburg.jpg",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grosse_Freiheit_Hamburg.jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "beatles",
+    "filename": "star_club_hamburg.jpg",
+    "path": "/beatles/star_club_hamburg.jpg",
+    "title": "Star-Club, Hamburg",
+    "credit": "The Beatles – Live! At The Star-Club In Hamburg, Germany; 1962 01.jpg",
+    "license": "Public domain",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Beatles_%E2%80%93_Live!_At_The_Star-Club_In_Hamburg,_Germany;_1962_01.jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "dylan",
+    "filename": "greenwich_village.jpg",
+    "path": "/dylan/greenwich_village.jpg",
+    "title": "Greenwich Village, NYC",
+    "credit": "Cafe Wha? Entrance 2005-04-04.jpg",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cafe_Wha%3F_Entrance_2005-04-04.jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "dylan",
+    "filename": "newport_folk.jpg",
+    "path": "/dylan/newport_folk.jpg",
+    "title": "Newport Folk Festival",
+    "credit": "Bob Dylan's Fender Stratocaster (1964) in 3 tone sunburst, played when Dylan Goes Electric at Newport Folk Festival on July 25, 1965. Lost ca.1965, rediscovered in 2012 - Play It Loud. MET (2019-05-13 19.42.45 by Eden, Janine and Jim).jpg",
+    "license": "CC BY 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bob_Dylan%27s_Fender_Stratocaster_(1964)_in_3_tone_sunburst,_played_when_Dylan_Goes_Electric_at_Newport_Folk_Festival_on_July_25,_1965._Lost_ca.1965,_rediscovered_in_2012_-_Play_It_Loud._MET_(2019-05-13_19.42.45_by_Eden,_Janine_and_Jim).jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "dylan",
+    "filename": "manchester_free_trade.jpg",
+    "title": "Manchester Free Trade Hall",
+    "status": "not_found"
+  },
+  {
+    "subdir": "beachboys",
+    "filename": "capitol_records.jpg",
+    "path": "/beachboys/capitol_records.jpg",
+    "title": "Capitol Records Tower",
+    "credit": "Capitol Records Building LA.jpg",
+    "license": "CC BY-SA 2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Capitol_Records_Building_LA.jpg",
+    "status": "downloaded"
+  },
+  {
+    "subdir": "beachboys",
+    "filename": "abbey_road_studios.jpg",
+    "path": "/beachboys/abbey_road_studios.jpg",
+    "title": "Abbey Road Studios, London",
+    "credit": "EMI Studios London.jpg",
+    "license": "CC BY-SA 3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:EMI_Studios_London.jpg",
+    "status": "downloaded"
+  }
+]

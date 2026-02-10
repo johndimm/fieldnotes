@@ -1,0 +1,354 @@
+{
+  "picasso": {
+    "malaga_birthplace.jpg": {
+      "status": "downloaded",
+      "path": "/picasso/malaga_birthplace.jpg",
+      "credit": "Malaga Picasso-Geburtshaus2004.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Malaga_Picasso-Geburtshaus2004.jpg"
+    },
+    "quatre_gats_barcelona.jpg": {
+      "status": "downloaded",
+      "path": "/picasso/quatre_gats_barcelona.jpg",
+      "credit": "15-10-27-Els Quatre Gats-RalfR-WMA 2719-2724.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/15-10-27-Els_Quatre_Gats-RalfR-WMA_2719-2724.jpg"
+    },
+    "gare_orsay_paris.jpg": {
+      "status": "downloaded",
+      "path": "/picasso/gare_orsay_paris.jpg",
+      "credit": "MuseeOrsay 20070324.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/MuseeOrsay_20070324.jpg"
+    },
+    "montmartre_1900.jpg": {
+      "status": "downloaded",
+      "path": "/picasso/montmartre_1900.jpg",
+      "credit": "La Crémaillère 1900, Place du Tertre, Paris 10 November 2012.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/La_Cr%C3%A9maill%C3%A8re_1900%2C_Place_du_Tertre%2C_Paris_10_November_2012.jpg"
+    },
+    "galerie_vollard.jpg": {
+      "status": "downloaded",
+      "path": "/picasso/galerie_vollard.jpg",
+      "credit": "Ambroise Vollard by Pierre-Auguste Renoir.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Ambroise_Vollard_by_Pierre-Auguste_Renoir.jpg"
+    },
+    "picasso_blue_period.jpg": {
+      "status": "downloaded",
+      "path": "/picasso/picasso_blue_period.jpg",
+      "credit": "Francisco de Zurbarán 047.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Francisco_de_Zurbar%C3%A1n_047.jpg"
+    },
+    "bateau_lavoir.jpg": {
+      "status": "downloaded",
+      "path": "/picasso/bateau_lavoir.jpg",
+      "credit": "Le Bateau Lavoir, Montmartre, Paris 30 May 2010.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Le_Bateau_Lavoir%2C_Montmartre%2C_Paris_30_May_2010.jpg"
+    },
+    "lapin_agile.jpg": {
+      "status": "downloaded",
+      "path": "/picasso/lapin_agile.jpg",
+      "credit": "Au lapin agile - Montmartre.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Au_lapin_agile_-_Montmartre.jpg"
+    }
+  },
+  "darwin": {
+    "the_mount_shrewsbury.png": {
+      "status": "downloaded",
+      "path": "/darwin/the_mount_shrewsbury.png",
+      "credit": "The Mount - about 1860.png",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/The_Mount_-_about_1860.png"
+    },
+    "cambridge_university.jpg": {
+      "status": "downloaded",
+      "path": "/darwin/cambridge_university.jpg",
+      "credit": "Cambridge. Gonville and Caius College, Senate House and University Library (3610778787).jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Cambridge._Gonville_and_Caius_College%2C_Senate_House_and_University_Library_%283610778787%29.jpg"
+    },
+    "hms_beagle.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HMS_Beagle_by_Conrad_Martens.jpg/1235px-HMS_Beagle_by_Conrad_Martens.jpg"
+    },
+    "brazilian_rainforest.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Atlantic_Forest_WWF.jpg/1280px-Atlantic_Forest_WWF.jpg"
+    },
+    "punta_alta_argentina.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Megatherium_americanum.001_-_Natural_History_Museum_of_London.JPG/1280px-Megatherium_americanum.001_-_Natural_History_Museum_of_London.JPG"
+    },
+    "tierra_del_fuego.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Tierra_del_Fuego_1.jpg/1280px-Tierra_del_Fuego_1.jpg"
+    },
+    "chile_earthquake.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/AMH-6919-KB_Map_of_Valdivia_and_environs.jpg/1280px-AMH-6919-KB_Map_of_Valdivia_and_environs.jpg"
+    },
+    "galapagos_finches.jpg": {
+      "status": "downloaded",
+      "path": "/darwin/galapagos_finches.jpg",
+      "credit": "Darwin's finches by Gould.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Darwin%27s_finches_by_Gould.jpg"
+    },
+    "falmouth_harbour.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Falmouth_Harbour%2C_Cornwall_-_geograph.org.uk_-_5310369.jpg/1280px-Falmouth_Harbour%2C_Cornwall_-_geograph.org.uk_-_5310369.jpg"
+    }
+  },
+  "einstein": {
+    "ulm_germany.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ulm_Germany_Interior-of-Ulm-Minster-01.jpg/1280px-Ulm_Germany_Interior-of-Ulm-Minster-01.jpg"
+    },
+    "munich_1890.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Altes_Rathaus%2C_Munchen%2C_Nazi_Germany_-_Haus_der_Deutschen_Kunst_Richtfest_%28topping-out_ceremony%29_Festessen_%28banquet%29_29.6.1935_Festsaal_%28Tanzsaal_banquet_hall_ball_room_with_guests%29_NSDAP_members_propaganda_Wolfsonian_TD1991.218.34_000.jpg/1280px-thumbnail.jpg"
+    },
+    "eth_zurich.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/4/4e/Zentralstellwerk_Z%C3%BCrich%2C_1961_%28ETH-BIB_Com_F61-00107-0003%29.jpg"
+    },
+    "patent_office_bern.jpg": {
+      "status": "not_found"
+    },
+    "kramgasse_bern.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/CH_Bern_Kramgasse.jpg/1280px-CH_Bern_Kramgasse.jpg"
+    },
+    "einstein_1905.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Albert_Einstein_ETH-Bib_Portr_05937.jpg/1280px-Albert_Einstein_ETH-Bib_Portr_05937.jpg"
+    },
+    "annalen_der_physik.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Annalen_der_Physik_1887_Band_267_Band_31_S_641_Otto_Wiener.jpg/1280px-Annalen_der_Physik_1887_Band_267_Band_31_S_641_Otto_Wiener.jpg"
+    }
+  },
+  "shakespeare": {
+    "stratford_upon_avon.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Shakespeare%27s_Birthplace.jpg/1280px-Shakespeare%27s_Birthplace.jpg"
+    },
+    "london_1590s.jpg": {
+      "status": "downloaded",
+      "path": "/shakespeare/london_1590s.jpg",
+      "credit": "Darnley stage 3.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Darnley_stage_3.jpg"
+    },
+    "rose_theatre.jpg": {
+      "status": "downloaded",
+      "path": "/shakespeare/rose_theatre.jpg",
+      "credit": "Excavation of the Rose Theatre, Bankside, London.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Excavation_of_the_Rose_Theatre%2C_Bankside%2C_London.jpg"
+    },
+    "the_theatre_shoreditch.jpg": {
+      "status": "not_found"
+    },
+    "christopher_marlowe.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Christopher_Marlowe.jpg/1280px-Christopher_Marlowe.jpg"
+    },
+    "plague_london.jpg": {
+      "status": "not_found"
+    },
+    "globe_theatre.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/5/56/The_Globe_Theatre_-_geograph.org.uk_-_24898.jpg"
+    },
+    "shakespeare_portrait.jpg": {
+      "status": "downloaded",
+      "path": "/shakespeare/shakespeare_portrait.jpg",
+      "credit": "Shakespeare.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Shakespeare.jpg"
+    }
+  },
+  "bronte": {
+    "thornton_bradford.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/d/de/Bronte_birthplace%2C_Thornton_Village_-_geograph.org.uk_-_39907.jpg"
+    },
+    "haworth_parsonage.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bront%C3%AB_Parsonage.jpg/1280px-Bront%C3%AB_Parsonage.jpg"
+    },
+    "cowan_bridge_school.jpg": {
+      "status": "not_found"
+    },
+    "yorkshire_moors.jpg": {
+      "status": "not_found"
+    },
+    "bronte_sisters.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/The_Bront%C3%AB_Sisters_by_Patrick_Branwell_Bront%C3%AB.jpg/1280px-The_Bront%C3%AB_Sisters_by_Patrick_Branwell_Bront%C3%AB.jpg"
+    },
+    "roe_head_school.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/8/84/Hollybank_Special_School%2C_Mirfield_-_geograph.org.uk_-_55898.jpg"
+    },
+    "smith_elder_london.jpg": {
+      "status": "not_found"
+    },
+    "scarborough.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Scarborough%2C_North_Yorkshire._%284_of_7%29.jpg/1280px-Scarborough%2C_North_Yorkshire._%284_of_7%29.jpg"
+    }
+  },
+  "hemingway": {
+    "oak_park_illinois.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Oak_Leaves_Building%2C_Lake_Street%2C_Oak_Park%2C_IL.jpg/1280px-Oak_Leaves_Building%2C_Lake_Street%2C_Oak_Park%2C_IL.jpg"
+    },
+    "fossalta_di_piave.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/3/3e/Luigi_Marzocchi_%281888-1970%29_--_foto_1917-1918_-_WWI_-_prima_guerra_mondiale_%283_of_23%29.jpg"
+    },
+    "gare_de_lyon.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/0/0b/Mobilizing_before_Gare_de_Lyon%2C_Paris_%28LOC%29.jpg"
+    },
+    "paris_latin_quarter.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/A_summer_in_northern_lands%3B_the_journal_of_a_trip_to_Scandinavia_%281922%29_%2814779611804%29.jpg/1280px-A_summer_in_northern_lands%3B_the_journal_of_a_trip_to_Scandinavia_%281922%29_%2814779611804%29.jpg"
+    },
+    "gertrude_stein.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/3/35/Portrait_of_Gertrude_Stein_by_Jo_Davidson.jpg"
+    },
+    "shakespeare_and_co.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Shakespeare_and_Company_bookstore%2C_Paris_13_August_2013.jpg/1280px-Shakespeare_and_Company_bookstore%2C_Paris_13_August_2013.jpg"
+    },
+    "closerie_des_lilas.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Paris_-_La_Closerie_des_Lilas_-_2018.jpg/1280px-Paris_-_La_Closerie_des_Lilas_-_2018.jpg"
+    },
+    "pamplona_spain.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Sanfermines_Vaquillas_Pamplona_08.jpg/1280px-Sanfermines_Vaquillas_Pamplona_08.jpg"
+    },
+    "hemingway_paris.jpg": {
+      "status": "not_found"
+    }
+  },
+  "welles": {
+    "kenosha_wisconsin.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ambassador_Sedan%2C_1948%2C_Nash_Motor_Company%2C_Kenosha%2C_Wisconsin_-_Wisconsin_Historical_Museum_-_DSC03365.JPG/1280px-Ambassador_Sedan%2C_1948%2C_Nash_Motor_Company%2C_Kenosha%2C_Wisconsin_-_Wisconsin_Historical_Museum_-_DSC03365.JPG"
+    },
+    "gate_theatre_dublin.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Dublin_Ireland_Gate_Theater_2009-09-27.JPG/1280px-Dublin_Ireland_Gate_Theater_2009-09-27.JPG"
+    },
+    "mercury_theatre_nyc.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Caesar-Coulouris-1937.jpg/1280px-Caesar-Coulouris-1937.jpg"
+    },
+    "cbs_radio_studio.jpg": {
+      "status": "not_found"
+    },
+    "rko_pictures_hollywood.jpg": {
+      "status": "not_found"
+    },
+    "citizen_kane_filming.jpg": {
+      "status": "downloaded",
+      "path": "/welles/citizen_kane_filming.jpg",
+      "credit": "Citizen-Kane-Welles-Podium.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/3/34/Citizen-Kane-Welles-Podium.jpg"
+    },
+    "rko_stage_set.jpg": {
+      "status": "not_found"
+    },
+    "hearst_castle.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Hearst_Castle_Casa_Grande_September_2012_panorama_2.jpg/1280px-Hearst_Castle_Casa_Grande_September_2012_panorama_2.jpg"
+    },
+    "citizen_kane_premiere.jpg": {
+      "status": "downloaded",
+      "path": "/welles/citizen_kane_premiere.jpg",
+      "credit": "Orson Welles-Citizen Kane1.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Orson_Welles-Citizen_Kane1.jpg"
+    }
+  },
+  "beatles": {
+    "liverpool_cavern.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cavern_Mecca_Beatles_Museum_relief%2C_Cavern_Club_2010.jpg/1280px-Cavern_Mecca_Beatles_Museum_relief%2C_Cavern_Club_2010.jpg"
+    },
+    "indra_club_hamburg.jpg": {
+      "status": "not_found"
+    },
+    "kaiserkeller_hamburg.jpg": {
+      "status": "not_found"
+    },
+    "hamburg_reeperbahn.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Grosse_Freiheit_-_ca_1968.jpg/1280px-Grosse_Freiheit_-_ca_1968.jpg"
+    },
+    "top_ten_club_hamburg.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Gedenktafel_Beatles_Platz_-_Hamburg.jpg/1280px-Gedenktafel_Beatles_Platz_-_Hamburg.jpg"
+    },
+    "star_club_hamburg.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/5/55/Star_club_gedenkstein.jpg"
+    },
+    "astrid_kirchherr.jpg": {
+      "status": "not_found"
+    }
+  },
+  "dylan": {
+    "hibbing_minnesota.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Mesabi_Iron_Range_stromatolite.jpg/1280px-Mesabi_Iron_Range_stromatolite.jpg"
+    },
+    "greenwich_village.jpg": {
+      "status": "not_found"
+    },
+    "newport_folk_1963.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Berliner_Dom_Festival_of_Lights.jpg/1280px-Berliner_Dom_Festival_of_Lights.jpg"
+    },
+    "columbia_studio_a.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/b/b2/Art_Drelinger%2C_Billy_Butterfield%2C_Bunny_Shawker%2C_Stan_Freeman%2C_Toots_Mondello%2C_and_Bob_Haggart%2C_Columbia_studio%2C_New_York%2C_ca._Mar._1947_%28William_P._Gottlieb_03651%29.jpg"
+    },
+    "newport_folk_1965.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bob_Dylan%27s_Fender_Stratocaster_%281964%29_in_3_tone_sunburst%2C_played_when_Dylan_Goes_Electric_at_Newport_Folk_Festival_on_July_25%2C_1965._Lost_ca.1965%2C_rediscovered_in_2012_-_Play_It_Loud._MET_%282019-05-13_19.42.45_by_Eden%2C_Janine_and_Jim%29.jpg/1280px-thumbnail.jpg"
+    },
+    "manchester_free_trade.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Manchester_Free_Trade_Hall.jpg/1280px-Manchester_Free_Trade_Hall.jpg"
+    }
+  },
+  "beachboys": {
+    "hawthorne_california.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Christmas_flood_of_1964-65_%2815986614455%29.jpg/1280px-Christmas_flood_of_1964-65_%2815986614455%29.jpg"
+    },
+    "brian_wilson.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/3/3b/The_beach_boys_1976.jpg"
+    },
+    "gold_star_studios.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Studio_portrait_of_Annette_Kellerman_%289810588775%29.jpg/1280px-Studio_portrait_of_Annette_Kellerman_%289810588775%29.jpg"
+    },
+    "western_recorders.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/d/dc/Bob_Curnow_%26_Stan_Kenton%2C_United-Western_Studio_-_Nat%27l_Anthems_album.jpg"
+    },
+    "capitol_records.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/8/86/Capitol_Records_Building_LA.jpg"
+    },
+    "emi_studios_london.jpg": {
+      "status": "downloaded",
+      "path": "/beachboys/emi_studios_london.jpg",
+      "credit": "Abbey road studios.jpg",
+      "originalUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Abbey_road_studios.jpg"
+    },
+    "sunset_sound.jpg": {
+      "status": "error",
+      "error": "HTTP 429 for https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/SunsetGowerStudios_Dec2006.jpg/1280px-SunsetGowerStudios_Dec2006.jpg"
+    }
+  }
+}
